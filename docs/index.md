@@ -1,4 +1,4 @@
-# SIGCSE2019-PreSymposium-Event
-Materials and participant submissions for the Committee's 2019 SIGCSE pre-Symposium Event
+# Pre-Symposium Event at SIGCSE 2019
+Materials and participant submissions for the Committee's proposed SIGCSE 2019 pre-Symposium Event
 
 ---
