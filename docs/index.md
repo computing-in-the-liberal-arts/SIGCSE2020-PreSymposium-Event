@@ -39,5 +39,6 @@ A pre-symposium event at [SIGCSE 2020](https://sigcse2020.sigcse.org) organized 
 - Janet Davis, Whitman College
 - Amanda Holland-Minkley, Washington & Jefferson College
 - Henry Walker, Grinnell College
+
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") Unless otherwise noted on an individual resource, all materials in this repository are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
