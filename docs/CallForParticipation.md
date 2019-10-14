@@ -79,7 +79,7 @@ The Program Committee intends to collaborate with interested authors of submitte
 | ---- | -------- |
 | 1:30-1:45 | Overview of the event, introductions, and initial networking activity.
 | 1:45-2:15 | Presentations of innovative curricular models for computing education in the liberal arts (number and duration depending upon submissions). Curricular models presented will be selected from submissions.
-| 2:15:-3:00 | Breakout session to discuss curricular design with report out. Foci for the breakout groups will mirror themes from the curricular models presented.
+| 2:15-3:00 | Breakout session to discuss curricular design with report out. Foci for the breakout groups will mirror themes from the curricular models presented.
 | 3:00-3:30 | Break
 | 3:30-3:45 | Enumeration of challenges, opportunities, and possible organizational directions.
 | 3:45-4:30 | Breakout session on challenges, opportunities, and organizational direction with report out. Foci for groups will be derived from submissions.
