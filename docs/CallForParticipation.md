@@ -30,15 +30,15 @@ The program committee invites three types of submissions for the pre-symposium e
 
 1. __Innovative Curricular Models for Computing Education in the Liberal Arts:​__ A brief (approximately 2-page) description of the curricular model of your liberal arts computing program.
 
-  Submissions describing models that are particularly innovative, or that leverage particular opportunities and/or challenges presented by the liberal arts context, and/or show potential for broadening participation in computing are encouraged. In addition, models containing elements that show promise for adaptation/adoption across institutions will be given preference.
-
-  Please see the [Curriculum Submission Template](curricula/CurriculumModelTemplate.md) and the samples (_Dickinson College???_, _Whitman College???_).  Submissions will be lightly screened by the program committee for suitability and will be made available to the community through this site. In addition, the program committee will select a broad sample of models from the submission and invite the authors to present their models during the event.
+    Submissions describing models that are particularly innovative, or that leverage particular opportunities and/or challenges presented by the liberal arts context, and/or show potential for broadening participation in computing are encouraged. In addition, models containing elements that show promise for adaptation/adoption across institutions will be given preference.
+    
+    Please see the [Curriculum Submission Template](curricula/CurriculumModelTemplate.md) and the samples (_Dickinson College???_, _Whitman College???_).  Submissions will be lightly screened by the program committee for suitability and will be made available to the community through this site. In addition, the program committee will select a broad sample of models from the submission and invite the authors to present their models during the event.
 
 1. __Challenges, Opportunities and Organizational Direction:__ A short (approximately 1-paragraph) description of a topic for discussion.
 
-  Submissions identifying specific challenges and opportunities presented by teaching computing in a liberal arts setting are encourages. Submissions proposing particular future directions and initiatives for the SIGCSE Committee on Computing Education in Liberal Arts Colleges are also welcome.
-
-  Please see the [Challenges Submission Template](challenges/ChallengesTemplate.md) and the samples (_Someone-got-one? Or two?_). Submissions will be lightly screened by the program committee for suitability and will be made available to the community through this site. In addition, the program committee will use submissions in this category, in conjunction with topics highlighted in the [Committee’s Inroads report](), to select 5-6 topics of broad interest as foci for the breakout discussion groups.
+    Submissions identifying specific challenges and opportunities presented by teaching computing in a liberal arts setting are encourages. Submissions proposing particular future directions and initiatives for the SIGCSE Committee on Computing Education in Liberal Arts Colleges are also welcome.
+    
+    Please see the [Challenges Submission Template](challenges/ChallengesTemplate.md) and the samples (_Someone-got-one? Or two?_). Submissions will be lightly screened by the program committee for suitability and will be made available to the community through this site. In addition, the program committee will use submissions in this category, in conjunction with topics highlighted in the [Committee’s Inroads report](), to select 5-6 topics of broad interest as foci for the breakout discussion groups.
 
 1. __Attendee:__ An e-mail expressing interest in attending and participating in the event without making a submission in either of the other two categories.
 
