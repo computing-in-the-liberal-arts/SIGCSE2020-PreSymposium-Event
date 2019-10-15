@@ -90,7 +90,9 @@ because none of the founding faculty have expertise in this area
 and because I argued for eliminating the Programming Languages requirement at my prior institution.
 One of our founding faculty has announced plans to leave and must be replaced.
 We also hope to receive our first expansion position soon. 
-I welcome advice on adapting our curriculum to fit our changing faculty.
-We also hope to incorporate more interdiciplinary offerings, 
-address feedback from students and alumni, and 
-work towards greater adherence to [Computer Science Curricula 2013](http://ai.stanford.edu/users/sahami/CS2013/).
+
+I welcome advice on adapting our curriculum to fit our changing faculty, 
+while also
+offering more interdiciplinary courses,
+addressing feedback from students and alumni, and/or
+working towards greater adherence to [Computer Science Curricula 2013](http://ai.stanford.edu/users/sahami/CS2013/).
