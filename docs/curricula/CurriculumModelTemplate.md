@@ -14,7 +14,8 @@ _Please limit your contribution to about two pages or 750 words._
 _Expand here on any other contextual factors that have shaped your curriculum: 
 - institutional mission, culture, curriculum, or strategic plans;
 - relevant historical circumstances;
-- goals for interdisciplinarity, broaadening participation, etc._
+- goals for interdisciplinarity, broaadening participation, etc.;
+- unusual opportunties._
 
 ## Curricular overview
 
