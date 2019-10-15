@@ -30,12 +30,12 @@ Our major consists of the following 8 required courses, plus one elective.
 The three-layer pre-requisite structure is shown [here](flowchart-2018.pdf).
 Courses and other requirements are documented in detail in the [catalog](catalog-2019.pdf).
 
-Required intermediate-level courses:
+**Required intermediate-level courses:**
 - CS 210, _Computer Systems Fundamentals_, introduces foundational concepts in digital logic, computer architecture, and compilers through the [Nand2Tetris](http://nand2tetris.org) curriculum.
 - CS/Math 220, _Discrete Mathematics & Functional Programming_, introduces set theory, logic, proof techniques, and functional programming in SML through [Thomas VanDrunen's textbook of the same title](https://cs.wheaton.edu/~tvandrun/dmfp/).
 - CS 270, _Data Structures_, develops concepts of object-oriented programming in C++ and elementary asymptotic analysis as applied to the design and implementation of fundamental data structures.
 
-Required upper-level courses:
+**Required upper-level courses:**
 - CS 310, _Computer Systems Programming_, introduces operating systems concepts such as concurrency from the programmer's perspective using [Bryant and O'Hallaron's textbook](http://www.csapp.cs.cmu.edu/).
 - CS 320, _Theory of Computation_, using Sipser.
 - CS 327, _Algorithm Design & Analysis_, using CLRS.
@@ -43,11 +43,10 @@ Required upper-level courses:
 - CS 495/6, _Computer Science Capstone_, a 1.5-semester open-ended team project addressing a problem in the advisor's area of research
 or the needs of a client on campus or in the community, culminating in a presentation at the annual _Whitman Undergraduate Conference_ in April.
 
-Regularly offered electives:
-
+**Regularly offered electives:**
 _Human-Computer Interaction, Software Performance Optimization, Artificial Intelligence, Natural Language Processing, Operations Research, Mathematical Modeling._
 
-Senior exam:
+**Senior exam:**
 - A one-hour oral examination addresses key learning goals from _Data Structures_, two upper-level courses, and the capstone project.
 - The oral exam is supplemented by the [Major Field Test](https://www.ets.org/mft/about/content/computer_science).
 
@@ -75,7 +74,7 @@ We have already had a student projects club and a student ACM chapter come and g
 ## Key contributions
 I am proud of our flat pre-requisite structure, offering three "portmanteau" courses at the intermediate level with only intro as a prerequisite.
 
-While I expected non-major interest in CS 270 or "CS2", I did not expect such broad interest in CS 210 and 220 -
+While I expected broad non-major interest in CS 270 or "CS2", I did not expect such broad interest in CS 210 and 220 -
 even though we chose course materials with an eye towards the liberal arts.
 We currently offer four sections of CS 167 annually, two sections of CS 270, and one each of CS 210 and 220. 
 In the future, we hope to offer two sections of each 200-level core course.
@@ -90,6 +89,7 @@ because none of the founding faculty have expertise in this area
 and because I argued for eliminating the Programming Languages requirement at my prior institution.
 One of our founding faculty has announced plans to leave and must be replaced.
 We also hope to receive our first expansion position soon. 
-I welcome advice on adapting our curriculum to fit our changing faculty 
-and address feedback from students and alumni
+I welcome advice on adapting our curriculum to fit our changing faculty,
+incorporate more interdiciplinary offerings, and
+address feedback from students and alumni, 
 while also working towards greater adherence to [Computer Science Curricula 2013](http://ai.stanford.edu/users/sahami/CS2013/).
