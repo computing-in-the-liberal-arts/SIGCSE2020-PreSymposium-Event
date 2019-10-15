@@ -32,7 +32,7 @@ The program committee invites three types of submissions for the pre-symposium e
 
     Submissions describing models that are particularly innovative, or that leverage particular opportunities and/or challenges presented by the liberal arts context, and/or show potential for broadening participation in computing are encouraged. In addition, models containing elements that show promise for adaptation/adoption across institutions will be given preference.
     
-    Please see the [Curriculum Submission Template](curricula/CurriculumModelTemplate.md) and the samples (_Dickinson College???_, _Whitman College???_).  Submissions will be lightly screened by the program committee for suitability and will be made available to the community through this site. In addition, the program committee will select a broad sample of models from the submission and invite the authors to present their models during the event.
+    Please see the [Curriculum Submission Template](curricula/CurriculumModelTemplate.md) and the samples (_Dickinson College???_, [Whitman College](curricula/whitman/index.md)).  Submissions will be lightly screened by the program committee for suitability and will be made available to the community through this site. In addition, the program committee will select a broad sample of models from the submission and invite the authors to present their models during the event.
 
 1. __Challenges, Opportunities and Organizational Direction:__ A short (approximately 1-paragraph) description of a topic for discussion.
 
