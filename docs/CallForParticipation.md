@@ -30,15 +30,16 @@ The program committee invites three types of submissions for the pre-symposium e
 
 1. __Innovative Curricular Models for Computing Education in the Liberal Arts:​__ A brief (approximately 2-page) description of the curricular model of your liberal arts computing program.
 
+    Please see the [Curriculum Submission Template](curricula/CurriculumModelTemplate.md) and the samples (_Dickinson College???_, [Whitman College](curricula/whitman/index.md)).  Submissions will be lightly screened by the program committee for suitability and will be made available to the community through this site. In addition, the program committee will invite some authors to present their models during the event.
+    
     Submissions describing models that are particularly innovative, or that leverage particular opportunities and/or challenges presented by the liberal arts context, and/or show potential for broadening participation in computing are encouraged. In addition, models containing elements that show promise for adaptation/adoption across institutions will be given preference.
     
-    Please see the [Curriculum Submission Template](curricula/CurriculumModelTemplate.md) and the samples (_Dickinson College???_, [Whitman College](curricula/whitman/index.md)).  Submissions will be lightly screened by the program committee for suitability and will be made available to the community through this site. In addition, the program committee will select a broad sample of models from the submission and invite the authors to present their models during the event.
 
 1. __Challenges, Opportunities and Organizational Direction:__ A short (approximately 1-paragraph) description of a topic for discussion.
 
-    Submissions identifying specific challenges and opportunities presented by teaching computing in a liberal arts setting are encourages. Submissions proposing particular future directions and initiatives for the SIGCSE Committee on Computing Education in Liberal Arts Colleges are also welcome.
-    
     Please see the [Challenges Submission Template](challenges/ChallengesTemplate.md) and the samples (_Someone-got-one? Or two?_). Submissions will be lightly screened by the program committee for suitability and will be made available to the community through this site. In addition, the program committee will use submissions in this category, in conjunction with topics highlighted in the [Committee’s Inroads report](), to select 5-6 topics of broad interest as foci for the breakout discussion groups.
+    
+    Submissions identifying specific challenges and opportunities presented by teaching computing in a liberal arts setting are encouraged. Submissions proposing particular future directions and initiatives for the SIGCSE Committee on Computing Education in Liberal Arts Colleges are also welcome.
 
 1. __Attendee:__ An e-mail expressing interest in attending and participating in the event without making a submission in either of the other two categories.
 
@@ -49,12 +50,13 @@ Submissions may be made in one of two ways:
     1. Fork the Computing in the Liberal Arts [SICSE2020 Pre-Symposium Event Repository](https://github.com/computing-in-the-liberal-arts/SIGCSE2020-PreSymposium-Event).
     1. Create a branch for your submission.
     1. Add a sub-directory for your submission to the appropriate directory (_curricula_ or _challenges_).
-    1. Populate your sub-directory with the materials for your submission.  Please use a file named `index.md` for the text of your submission and copy any images or other supporting materials into your sub-directory. See the submission templates [Curriculum](curricula/CurriculumModelTemplate.md), [Challenges](challenges/ChallengesTemplate.md) for examples.
+    1. Populate your sub-directory with the materials for your submission.  Please use a file named `index.md` for the text of your submission and copy any images or other supporting materials into your sub-directory. Pattern your text on the [Curriculum](curricula/CurriculumModelTemplate.md) or the [Challenges](challenges/ChallengesTemplate.md) template.
     1. Create a Pull Request for your branch.
 
   - __E-Mail__:
-    1. See the submission templates [Curriculum](curricula/CurriculumModelTemplate.md), [Challenges](challenges/ChallengesTemplate.md) for examples.
-    1. E-mail (_who?_) with a zip file containing a MS Word or plain text document with your submission.  The Program Committee will translate your submission into a Pull Request.
+    1. Write your submission in a a MS Word or plain text document. See the submission template for [Curriculum](curricula/CurriculumModelTemplate.md) or [Challenges](challenges/ChallengesTemplate.md).
+    1. E-mail (_who?_) with a zip file containing your submission and any images or other supporting files.  The Program Committee will translate your submission into a Pull Request.
+    1. If you wish to make more than one submission, please submit a separate zip file for each submission.
 
 Those interested in attending without submission should simply simply send an e-mail to (_who?_) expressing your interest in participating in the event.
 
