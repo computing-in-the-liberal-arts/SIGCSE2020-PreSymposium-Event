@@ -49,7 +49,7 @@ Submissions may be made in one of two ways:
     1. Fork the Computing in the Liberal Arts [SICSE2020 Pre-Symposium Event Repository](https://github.com/computing-in-the-liberal-arts/SIGCSE2020-PreSymposium-Event).
     1. Create a branch for your submission.
     1. Add a sub-directory for your submission to the appropriate directory (_curricula_ or _challenges_).
-    1. Populate your sub-directory with the materials for your submission.  See the submission templates [Curriculum](curricula/CurriculumModelTemplate.md), [Challenges](challenges/ChallengesTemplate.md) for examples.
+    1. Populate your sub-directory with the materials for your submission.  Please use a file named `index.md` for the text of your submission and copy any images or other supporting materials into your sub-directory. See the submission templates [Curriculum](curricula/CurriculumModelTemplate.md), [Challenges](challenges/ChallengesTemplate.md) for examples.
     1. Create a Pull Request for your branch.
 
   - __E-Mail__:
