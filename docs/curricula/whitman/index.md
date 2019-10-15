@@ -40,8 +40,8 @@ Courses and other requirements are documented in detail in the [catalog](catalog
 - CS 320, _Theory of Computation_, using Sipser.
 - CS 327, _Algorithm Design & Analysis_, using CLRS.
 - CS 370, _Software Design_, addresses advanced object-oriented design in Java, with a semester-long team project. We currently use Dale Skrien's out-of-print textbook with some supplementary materials, particularly on project management.
-- CS 495/6, _Computer Science Capstone_, a 1.5-semester open-ended team project addressing a problem in the advisor's area of research
-or the needs of a client on campus or in the community, culminating in a presentation at the annual _Whitman Undergraduate Conference_ in April.
+- CS 495/6, _Computer Science Capstone_, comprises a 1.5-semester team project, addressing a problem in the advisor's area of research
+or the needs of a campus/community client. The capstone culminates in a presentation at the _Whitman Undergraduate Conference_ in April.
 
 **Regularly offered electives:**
 _Human-Computer Interaction, Software Performance Optimization, Artificial Intelligence, Natural Language Processing, Operations Research, Mathematical Modeling._
@@ -58,10 +58,11 @@ We use Havill's [Discovering Computer Science](https://www.crcpress.com/Discover
 
 The minor in Computer Science requires 15 credits (5 courses) at the 200-level or above.  
 Due to the pre-requisite structure, students must take _Data Structures_. 
-Some minors look much like the core of the major, while others are comprised mainly of electives. 
+Some minors are composed entirely of core courses, while others are mostly electives.
 
 Our colleagues in Mathematics and Statistics recently enlisted us to propose a new minor in Data Science.
 This minor requires CS 167, _Statistics with Applications_, _Linear Algebra_, and three further electives from Mathematics and Computer Science.
+We do not yet offer a course titled _Data Science_.
 
 ### Co-curricular program(s)
 
@@ -89,7 +90,7 @@ because none of the founding faculty have expertise in this area
 and because I argued for eliminating the Programming Languages requirement at my prior institution.
 One of our founding faculty has announced plans to leave and must be replaced.
 We also hope to receive our first expansion position soon. 
-I welcome advice on adapting our curriculum to fit our changing faculty,
-incorporate more interdiciplinary offerings, and
-address feedback from students and alumni, 
-while also working towards greater adherence to [Computer Science Curricula 2013](http://ai.stanford.edu/users/sahami/CS2013/).
+I welcome advice on adapting our curriculum to fit our changing faculty.
+We also hope to incorporate more interdiciplinary offerings, 
+address feedback from students and alumni, and 
+work towards greater adherence to [Computer Science Curricula 2013](http://ai.stanford.edu/users/sahami/CS2013/).
