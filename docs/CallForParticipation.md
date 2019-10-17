@@ -49,7 +49,7 @@ Submissions may be made in one of two ways:
 
 - __E-Mail__:
   1. Write your submission in a a MS Word or plain text document. See the submission template for [Curriculum](curricula/CurriculumModelTemplate.md) or [Challenges](challenges/ChallengesTemplate.md).
-  1. E-mail (_who?_) with a zip file containing your submission and any images or other supporting files.  The Program Committee will translate your submission into a GitHub Pull Request to add it to the repository.
+  1. E-mail <davisj@whitman.edu> with a zip file containing your submission and any images or other supporting files.  The Program Committee will translate your submission into a GitHub Pull Request to add it to the repository.
   1. If you wish to make more than one submission, please submit a separate zip file for each submission.
 
 - __GitHub Pull Request__:
@@ -59,7 +59,7 @@ Submissions may be made in one of two ways:
     1. Populate your sub-directory with the materials for your submission.  Please use a file named `index.md` for the text of your submission and copy any images or other supporting materials into your sub-directory. Pattern your text on the [Curriculum](curricula/CurriculumModelTemplate.md) or the [Challenges](challenges/ChallengesTemplate.md) template.
     1. Create a Pull Request for your branch.
 
-Those interested in attending without submission should simply simply send an e-mail to (_who?_) expressing your interest in participating in the event.
+Those interested in attending without submission should simply simply send an e-mail to <davisj@whitman.edu>  expressing your interest in participating in the event.
 
 ## Post Event Report
 
