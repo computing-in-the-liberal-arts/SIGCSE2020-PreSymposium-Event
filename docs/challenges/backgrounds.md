@@ -1,4 +1,4 @@
-# Challenge of Wide Ranging Student Backgrounds in Introductory Courses
+# Wide Ranging Student Backgrounds in Introductory Courses
 Contributed by Someone, someone@sample.org
 
 ## Institutional and departmental context
