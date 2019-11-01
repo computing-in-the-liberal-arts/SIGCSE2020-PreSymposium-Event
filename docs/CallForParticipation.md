@@ -6,6 +6,8 @@ The event will include participant presentations, group discussions and breakout
 
 All interested faculty and students are welcome.
 
+There is no cost to participants. However, all participants must respond to the Call for Participation in one of the three forms described below.
+
 ## Event Information
 
 - Pre-Symposium Event at [SIGCSE 2020](https://sigcse2020.sigcse.org)
@@ -47,16 +49,17 @@ The program committee invites three types of submissions for the pre-symposium e
 Submissions may be made in one of two ways:
 
 - __E-Mail__:
-  1. Write your submission in a a MS Word or plain text document. See the submission template for [Curriculum](curricula/CurriculumModelTemplate.md) or [Challenges](challenges/ChallengesTemplate.md).
-  1. E-mail <davisj@whitman.edu> with a zip file containing your submission and any images or other supporting files.  The Program Committee will translate your submission into a GitHub Pull Request to add it to the repository.
+  1. Write your submission in a a MS Word, rich text or plain text document. See the submission template for [Curriculum](curricula/CurriculumModelTemplate.md) or [Challenges](challenges/ChallengesTemplate.md).
+  1. E-mail <davisj@whitman.edu> with a zip file containing your submission and any images or other supporting files.  The Program Committee will add your submission to the repository.
   1. If you wish to make more than one submission, please submit a separate zip file for each submission.
 
-- __GitHub Pull Request__:
+- __GitHub Pull Request__: If you are comfortable with git and GitHub submissions may be made via GitHub pull requests.
     1. Fork the Computing in the Liberal Arts [SICSE2020 Pre-Symposium Event Repository](https://github.com/computing-in-the-liberal-arts/SIGCSE2020-PreSymposium-Event).
     1. Create a branch for your submission.
     1. Add a sub-directory for your submission to the appropriate directory (_curricula_ or _challenges_).
     1. Populate your sub-directory with the materials for your submission.  Please use a file named `index.md` for the text of your submission and copy any images or other supporting materials into your sub-directory. Pattern your text on the [Curriculum](curricula/CurriculumModelTemplate.md) or the [Challenges](challenges/ChallengesTemplate.md) template.
-    1. Create a Pull Request for your branch.
+    1. Create a pull request for your branch.
+    1. If you wish to make more than one submission, please create a separate pull request for each submission.
 
 Those interested in attending without submission should simply simply send an e-mail to <davisj@whitman.edu>  expressing your interest in participating in the event.
 
