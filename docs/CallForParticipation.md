@@ -36,7 +36,7 @@ The program committee invites three types of submissions for the pre-symposium e
 
 1. __Challenges, Opportunities and Organizational Direction:__ A short (approximately 1-paragraph) description of a topic for discussion.
 
-    Please see the [Challenges Submission Template](challenges/ChallengesTemplate.md) and the samples (_Someone-got-one? Or two?_). Submissions will be lightly screened by the program committee for suitability and will be made available to the community through this site. In addition, the program committee will use submissions in this category, in conjunction with topics highlighted in the [Committee’s Inroads report](), to select 5-6 topics of broad interest as foci for the breakout discussion groups.
+    Please see the [Challenges Submission Template](challenges/ChallengesTemplate.md) and the samples ([Recruiting, Hiring and Retaining Faculty](challenges/hiring.md), [Wide Ranging Student Backgrounds](challenges/backgrounds.md)). Submissions will be lightly screened by the program committee for suitability and will be made available to the community through this site. In addition, the program committee will use submissions in this category, in conjunction with topics highlighted in the [Committee’s Inroads report](), to select 5-6 topics of broad interest as foci for the breakout discussion groups.
 
     Submissions identifying specific challenges and opportunities presented by teaching computing in a liberal arts setting are encouraged. Submissions proposing particular future directions and initiatives for the SIGCSE Committee on Computing Education in Liberal Arts Colleges are also welcome.
 
