@@ -6,7 +6,7 @@ The event will include participant presentations, group discussions and breakout
 
 All interested faculty and students are welcome.
 
-There is no cost to participants. However, all participants must respond to the Call for Participation in one of the three forms described below.
+There is no cost to participants. However, all participants must respond to the Call for Participation in one of the three forms described below.  We anticipate being able to invite everyone who expresses interest. However, in the unlikely event that our venue cannot accommodate everyone, attendees will be selected giving first priority to those presenting examples or challenges and then reviewing attendance applications to achieve representation from a broad range of institutions.
 
 ## Event Information
 
