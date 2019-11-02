@@ -13,7 +13,7 @@ There is no cost to participants. However, all participants must respond to the 
 - Pre-Symposium Event at [SIGCSE 2020](https://sigcse2020.sigcse.org)
 - Wednesday March 11, 2020  
 1:30pm - 4:30pm  
-Additional optional items (see schedule below)
+4:30pm - Additional optional events (see schedule below)
 
 - Portland at Convention Center  
 329 NE Couch St.  
@@ -88,8 +88,8 @@ The Program Committee intends to collaborate with interested authors of submitte
 | 3:00-3:30 | Break
 | 3:30-3:45 | Enumeration of challenges, opportunities, and possible organizational directions.
 | 3:45-4:30 | Breakout session on challenges, opportunities, and organizational direction with report out. Foci for groups will be derived from submissions.
-| 4:30-5:00 | Business meeting.
-| Evening   |Optional dinner groups.
+| 4:30-5:00 | Optional Business meeting.
+| Evening   | Optional dinner groups.
 
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") Unless otherwise noted on an individual resource, all materials in this repository are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
