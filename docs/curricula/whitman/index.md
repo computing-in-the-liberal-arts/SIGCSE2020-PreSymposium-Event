@@ -4,7 +4,7 @@ Contributed by Janet Davis, davisj@whitman.edu
 ## Institutional and departmental context
 - Location: Walla Walla, WA
 - Student body size: About 1500 students
-- Degree(s) offered: M.A.
+- Degree(s) offered: B.A.
 - Department/major name: Computer science
 - Number of contributing faculty: 3 FTE
 - Number of majors annually: 19 and growing
