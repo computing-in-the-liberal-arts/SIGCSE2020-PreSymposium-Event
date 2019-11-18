@@ -4,10 +4,10 @@ A pre-symposium event at [SIGCSE 2020](https://sigcse2020.sigcse.org) organized 
 
 ## Event Information
 
-- [SIGCSE 2020](https://sigcse2020.sigcse.org),
+- [SIGCSE 2020](https://sigcse2020.sigcse.org)
 - [Event Proposal](SIGCSE_2020_CSLA.pdf)
 - [Call for Participation](CallForParticipation.md)
-- Resulting Materials (coming soon!)
+- [Resulting Materials](Submissions.md)
 
 ## Important Dates
 
