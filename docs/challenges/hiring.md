@@ -1,14 +1,14 @@
 # Recruiting, Hiring and Retaining Faculty
-Contributed by Someone, someone@sample.org
+Contributed by Amanda Holland-Minkley, ahollandminkley@washjeff.edu
 
 ## Institutional and departmental context
-- Institution Name: Sample School
-- Location: Somewhere
-- Student body size: N students, for some value of N
+- Institution Name: Washington and Jefferson College
+- Location: Washington, PA USA
+- Student body size: ...
 - Degree(s) offered: ...
 - Department/major name: ...
-- Number of contributing faculty: N FTE
-- Number of majors annually: N majors
+- Number of contributing faculty: ...
+- Number of majors annually: ...
 
 ## Facilitation
 Are you willing to facilitate this discussion? _Yes_
