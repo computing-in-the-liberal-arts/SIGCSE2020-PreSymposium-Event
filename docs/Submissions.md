@@ -7,5 +7,5 @@ This page contains materials submitted by the participants in a pre-symposium ev
 - [Whitman College](curricula/whitman/index.md) - Janet Davis
 
 # Challenges
-- [Recruiting, Hiring, and Retaining Faculty](challenges/hiring.md)
-- [Wide Ranging Student Backgrounds in Introductory Courses](challenges/backgrounds.md)
+- [Recruiting, Hiring, and Retaining Faculty](challenges/hiring.md) - Amanda Holland-Minkley
+- [Wide Ranging Student Backgrounds in Introductory Courses](challenges/backgrounds.md) - Amanda Holland-Minkley
