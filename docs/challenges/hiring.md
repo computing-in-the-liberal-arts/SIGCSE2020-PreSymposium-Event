@@ -4,11 +4,11 @@ Contributed by Amanda Holland-Minkley, ahollandminkley@washjeff.edu
 ## Institutional and departmental context
 - Institution Name: Washington and Jefferson College
 - Location: Washington, PA USA
-- Student body size: ...
-- Degree(s) offered: ...
-- Department/major name: ...
-- Number of contributing faculty: ...
-- Number of majors annually: ...
+- Student body size: 1400
+- Degree(s) offered: BA Computing and Information Studies
+- Department/major name: Department of Computing and Information Studies
+- Number of contributing faculty: 4 tenure lines
+- Number of majors annually: 10-15
 
 ## Facilitation
 Are you willing to facilitate this discussion? _Yes_
