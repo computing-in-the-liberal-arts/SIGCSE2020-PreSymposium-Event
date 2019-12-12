@@ -5,6 +5,7 @@ This page contains materials submitted by the participants in a pre-symposium ev
 # Innovative Curricular Models for Computing Education in the Liberal Arts:
 - [Bethell University](curricula/bethell/index.md) - Cathy Bareiss
 - [Dickinson College](curricula/dickinson/index.md) - Grant Braught
+- [Point Loma Nazarene University](curricula/pointloma/index.md) - Lori Carter
 - [Whitman College](curricula/whitman/index.md) - Janet Davis
 
 
