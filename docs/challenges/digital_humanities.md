@@ -1,5 +1,5 @@
 # Opportunity: Leverage Digital Humanities to Foster Collaboration between Computer Science and Other Liberal Arts Disciplines
-Contributed by _Name_, _Email address_
+Contributed by Robert R. Kelley Ph.D., rkelley@bellarmine.edu
 
 ## Institutional and departmental context
 - Institution Name: Bellarmine University
