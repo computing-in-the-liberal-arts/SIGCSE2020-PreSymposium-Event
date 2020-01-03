@@ -11,4 +11,5 @@ This page contains materials submitted by the participants in a pre-symposium ev
 
 # Challenges, Opportunities and Organizational Direction:
 - [Recruiting, Hiring, and Retaining Faculty](challenges/hiring.md) - Amanda Holland-Minkley
+- [Serving Computing _and_ Data Science Needs in a Liberal Arts Setting](challenges/data_science.md) - Karl Schmitt
 - [Wide Ranging Student Backgrounds in Introductory Courses](challenges/backgrounds.md) - Amanda Holland-Minkley
