@@ -1,16 +1,17 @@
-# _Siena College_
-Contributed by _Jim Teresco_, _jteresco@siena.edu_
+# Siena College
+
+Contributed by Jim Teresco, jteresco@siena.edu
 
 ## Institutional and departmental context
 - Location: Loudonville, New York, 12211 USA
-- Student body size: _3100_ students
+- Student body size: 3100 students
 - Degree(s) offered: B.S. Computer Science, B.S. Software Development
 - Department/major name: Computer Science
-- Number of contributing faculty: _17_ FTE
-- Number of majors annually: _30_ majors
+- Number of contributing faculty: 17 FTE
+- Number of majors annually: 30 majors
 
 Computer Science has a long history at Siena College.  (Insert a few
-details from Jim M. or others.)
+details from Jim M. or others?  Omit?)
 
 A second major program in Software Development was approved and first
 became available to students in 2018-19.  Its original name was
@@ -24,6 +25,14 @@ Development major, and our plans going forward that we wish to present
 and discuss.
 
 ## Curricular overview
+
+All Siena students are required to complete a Core Curriculum
+consisting of 42 credits/14 courses.  These include a 2-course
+First-Year Seminar, 8 courses in the Disciplinary Core, and 4 courses
+in the Franciscan Concern Core.  Further, a total of 60 credits must
+be in courses designated as "liberal arts and science".  As with many
+similar schools, these College requirements limit the number of
+credits/courses that can be required by majors.
 
 ### Major program(s)
 
