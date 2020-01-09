@@ -1,4 +1,4 @@
-# What do We teach the Non-majors?
+# What Do We Teach the Non-majors?
 Contributed by John Rager,	jerager@amherst.edu
 
 ## Institutional and departmental context
