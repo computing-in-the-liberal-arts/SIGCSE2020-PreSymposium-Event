@@ -23,7 +23,7 @@ It used to be very common in CS to have specific non-major courses, often with l
 
 It seems to be less common to have such courses now -
 there are easier programming environments - Python, Snap/Scratch; everyone “should” learn to code; we have so many majors that we don’t have the staff for such courses, etc.  But the fundamental question remains:
- - what are the interesting options for teaching non-majors?  
+ - What are the interesting options for teaching non-majors?  
  - Should they learn to code?  
  - Should they learn data mining?  
  - Should they learn what a Turing machine is?
