@@ -11,6 +11,7 @@ This page contains materials submitted by the participants in a pre-symposium ev
 
 
 # Challenges, Opportunities and Organizational Direction:
+- [Computational Literacy for Non-traditional Students](challenges/computational-literacy.md) - Maria Hwang
 - [How Can We Limit Enrollments While Preserving Access?](challenges/preserving-access.md) - Bob Geitz
 - [Leverage Digital Humanities to Foster Collaboration between Computer Science and Other Liberal Arts Disciplines](challenges/digital_humanities.md) - Robert R. Kelley
 - [Recruiting, Hiring, and Retaining Faculty](challenges/hiring.md) - Amanda Holland-Minkley
