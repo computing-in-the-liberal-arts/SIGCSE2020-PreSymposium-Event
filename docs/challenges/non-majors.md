@@ -17,11 +17,16 @@ Are there any others whom you would recommend as potential facilitators for this
 
 ## Description
 
-It used to be very common in CS to have specific non-major courses, often with little or no programming content.  
-(_DeMystifying the Internet_ was the name of one of ours.)  There were always issues with them - did they deflect
-good students from the “real” intro course? What should be in them?  It seems to be less common to have such courses now -
-there are easier programming environments - Python, Snap/Scratch; everyone “should” learn to code; we have so many majors that 
-we don’t have the staff for such courses, etc.  But the fundamental question remains - what are the interesting options for
-teaching non-majors?  Should they learn to code?  Should they learn data mining?  Should they learn what a Turing machine is? 
-Should the non-majors course follow the intro course, rather than being a substitute for it?  I hope that people will have ideas to
-share.
+It used to be very common in CS to have specific non-major courses, often with little or no programming content.   (_DeMystifying the Internet_ was the name of one of ours.)  There were always issues with them
+ - did they deflect good students from the “real” intro course?
+ - What should be in them?  
+
+It seems to be less common to have such courses now -
+there are easier programming environments - Python, Snap/Scratch; everyone “should” learn to code; we have so many majors that we don’t have the staff for such courses, etc.  But the fundamental question remains:
+ - what are the interesting options for teaching non-majors?  
+ -Should they learn to code?  
+ - Should they learn data mining?  
+ - Should they learn what a Turing machine is?
+ - Should the non-majors course follow the intro course, rather than being a substitute for it?  
+
+I hope that people will have ideas to share.
