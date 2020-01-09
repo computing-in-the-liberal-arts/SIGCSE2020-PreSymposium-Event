@@ -1,4 +1,4 @@
-# Recruiting, Hiring and Retaining Faculty
+# Recruiting Students BA vs BS and K12 Teacher Certification
 Contributed by Mike Zamansky, mz631@hunter.cuny.edu
 
 ## Institutional and departmental context
