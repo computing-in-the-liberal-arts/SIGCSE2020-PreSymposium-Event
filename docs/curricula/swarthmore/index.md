@@ -68,7 +68,7 @@ The following are the requirements for a minor in computer science (6 credits in
 ## Key contributions
 
 1. **The curriculum is designed to provide both breadth and depth in computer science,** while allowing for flexibility of specific upper-level course offerings to allow faculty to design new courses and adapt to specialties of new and visiting faculty. Our introductory sequence consists of 3 courses:  CPSC 021: Introduction to Computer
-Science (our CS1 course); CPSC 035: Data Structures and Algorithms (our CS2 course); and CPSC 031: Introduction to Computer Systems. Each of our upper-level courses is situated in one of three groups: Theory, Systems, or Applications.  We ensure breath in our major by requiring all majors take at least one course from each group.  Additionally, majors have upper-level elective requirements that provides a means for students to explore specific areas of interest in more depth. The figure below shows the design and prerequisite structure of our curriculum. (Course names followed by an asterisk are courses where we have introduced parallel and distributed concepts. See item 3 below for further discussion of this.)
+Science (our CS1 course); CPSC 035: Data Structures and Algorithms (our CS2 course); and CPSC 031: Introduction to Computer Systems. Each of our upper-level courses is situated in one of three groups: Theory, Systems, or Applications.  We ensure breath in our major by requiring all majors take at least one course from each group.  Additionally, majors have upper-level elective requirements that provide a means for students to explore specific areas of interest in more depth. The figure below shows the design and prerequisite structure of our curriculum. (Course names followed by an asterisk are courses where we have introduced parallel and distributed concepts. See item 3 below for further discussion of this.)
 
 ![figure of our curriculum with groups and requirements](currfig.svg)
 
@@ -81,7 +81,7 @@ recently completed the course.  We choose ninjas who did well in the course,
 but who are also patient, responsible, enthusiastic, and helpful to students with all backgrounds and abilities.  We additionally, select a diverse set of
 student ninjas because of their importance as mentors.  We have seen a
 dramatic improvement in representation in our courses and our major.
-Currently, we meet the college-wide demographics for URM and women in our intro course, and close in our second two courses.  And approximately 40% of our majors are women (the class of 2020 is 42%).  Details about our Ninja program are in our [SIGCSE 2014 paper](https://dl.acm.org/doi/10.1145/2538862.2538923)
+Currently, we meet the college-wide demographics for URM and women in our intro course, and are close in our second two courses.  Additionally, approximately 40% of our majors are women (the class of 2020 is 42%).  Details about our Ninja program are in our [SIGCSE 2014 paper](https://dl.acm.org/doi/10.1145/2538862.2538923)
 
 3. **Introduce parallel computing in our introductory course sequence**, 
   and expanded coverage in upper-level courses.
