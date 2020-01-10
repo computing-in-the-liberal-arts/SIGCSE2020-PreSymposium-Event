@@ -9,7 +9,7 @@ This page contains materials submitted by the participants in a pre-symposium ev
 - [Dickinson College](curricula/dickinson/index.md) - Grant Braught
 - [Fresno Pacific University](curricula/fresno_pacific/index.md) - Simon Sultana and Whitney Bortz
 - [Furman University](curricula/furman/index.md) - Andrea Tartaro, Chris Healy and Chris Alvin
-- [Loyola University Maryland](curricula/loyola/index.md) - Megan Olsen
+- [Loyola University Maryland](curricula/loyolamd/index.md) - Megan Olsen
 - [Point Loma Nazarene University](curricula/pointloma/index.md) - Lori Carter
 - [Siena College](curricula/siena/index.md) - Jim Teresco
 - [Whitman College](curricula/whitman/index.md) - Janet Davis
