@@ -13,6 +13,7 @@ Contributed by
 - Department/major name: [Computer Science](https://cs.swarthmore.edu)
 - Number of contributing faculty: 9.5 FTE (9 Tenure Track Faculty), plus two (2) lab instructors.
 - Number of majors annually: 60-70 majors
+- Swarthmore is a liberal arts college.
 
 ## Curricular overview
 
