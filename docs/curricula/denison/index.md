@@ -23,7 +23,7 @@ _There are eight 4-credit courses and one 1-credit course shared by the BA and B
   - Scientific Data and Dynamics (CS 111)
   - Markets, Polls, and Social Networks (CS 112)
   - Digital Media and Games (CS 110)
-  - Storytelling
+  - Storytelling (new)
 - Single variable Calculus (MATH 135)
 - Intermediate Computer Science (CS 173)
 - Data Systems (CS 181)
@@ -74,8 +74,6 @@ _Applied_
 
 ### Non-major programs
 
-_List and briefly describe minors, certificates, and courses open to non-majors._
-
 - The introductory _Discovering CS_ courses are designed to be taken by any student with no pre-requisites.  We are currently offering about 8 sections per year.
 - The CS minor requires the first 6 courses in the core (above).
 - We also participate in the Data Analytics (DA) program.  The introductory DA course is also open to all students.
@@ -84,17 +82,21 @@ _List and briefly describe minors, certificates, and courses open to non-majors.
 
 - summer research opportunities
 - internship support through the career development center
-- monthly _Pizza and Puzzles_ gatherings
+- monthly _Pizza and Puzzles_ gatherings (with Mathematics and Data Analytics)
 - monthly _Computing and Coffee_ discussions
+- _Pi-athlon_ event on Pi Day (with Mathematics)
 - Gordon lecture series
-- programming contests
+- annual Spring Programming Contest hosted at Denison
+- ACM programming contest
 - TRIWiC participation
 
 ## Key contributions
 
-- 11x, book
-- 181, forthcoming book
-- 234
+- Our introductory _Discovering Computer Science_ courses were designed, starting about ten years ago, to be of interest and accessible to students in any discipline.  We currently have three "flavors" of the course in the catalog (listed above), plus a new "Storytelling" flavor, which expects less mathematical comfort, that is being developed by one of our new CS colleagues.  Development of this course led to the textbook [Discovering Computer Science](http://discovercs.denison.edu).  A second edition is underway.
+
+- Parallel to the development of the Data Analytics major, we created a new _Data Systems_ course that is now required for both the DA and CS majors.  This applied course is organized around 4 different data models -- tabular, relational, hierarchical, and unstructured (text) -- and how to work with them in client-server environments.  The only prerequisite is the introductory CS course.  Since no textbook currently exists for such a course, one is being developed by our colleague Tom Bressoud.
+
+- Over the years, we have struggled to how best teach discrete mathematics and proofs to 
 - longer ds/alg sequence
 - 395
 - W
@@ -103,6 +105,7 @@ _List and briefly describe minors, certificates, and courses open to non-majors.
 ## Limitations/challenges
 _What challenges does your program face on which you might seek our advice? Or what limitations do you want us to know you are already aware of?_
 
+intro abilities
 large, joint department - split?
 large DA enrollments
 space
