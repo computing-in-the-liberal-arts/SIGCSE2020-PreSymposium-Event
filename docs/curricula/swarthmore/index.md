@@ -14,11 +14,17 @@ Contributed by
 - Number of contributing faculty: 9.5 FTE (9 Tenure Track Faculty), plus two (2) lab instructors.
 - Number of majors annually: 60-70 majors
 
-_Expand here on any other contextual factors that have shaped your curriculum:
-- institutional mission, culture, curriculum, or strategic plans;
-- relevant historical circumstances;
-- goals for interdisciplinarity, broaadening participation, etc.;
-- unusual opportunties._
+
+Our departmental goals for the Computer Science major state that students should:
+
+* Be able to apply problem solving skills to formalize general problem statements into precise algorithmic solutions
+become proficient programmers
+* Demonstrate an understanding of the interplay between theory and practice
+demonstrate adequate competency in theory, systems, and applications, the three main areas of the computer science curriculum.
+* Have a broad exposure to computer systems.
+* Have experience conducting research and completing large projects; often such projects will require a team effort.
+* Be able to apply the computational and algorithmic problem solving skills learned in computer science across many disciplines.
+
 
 ## Curricular overview
 
@@ -72,7 +78,7 @@ are grouped into three groups: Theory; Systems; and Applications.  We ensure
 breath in our major by requiring all majors to take at least one course
 from each group.  Additionally, majors have upper-level elective requirements
 that provides an means for students to explore specific areas of interest in
-more depth.   The figure below shows the design and prerequisite structure of 
+more depth.   The figure below shows the design and prerequisite structure of
 our curriculum.
 
 ![figure of our curriculum with groups and requirements](currfig.svg)
@@ -83,8 +89,8 @@ was designed, in part, to improve retention and recruitment of underrepresented
 students, and to provide a more helpful, welcoming and supportive environment
 for our introductory students. Student ninjas are selected from students who
 recently completed the course.  We choose ninjas who did well in the course,
-but who are also patient, responsible, enthusiastic, and helpful to students with all backrounds and abilities.  We addtionally, select a diverse set of 
-student ninjas because of their importance as mentors.  We have seen a 
+but who are also patient, responsible, enthusiastic, and helpful to students with all backrounds and abilities.  We addtionally, select a diverse set of
+student ninjas because of their importance as mentors.  We have seen a
 dramatic improvement in representation in our courses and our major.
 Currently, we meet the college-wide demographics for URM and women in our intro course, and close in our second two courses.  And approximately 40% of our majors are women (the class of 2020 is 42%).  Details about our Ninja program are in our [SIGCSE 2014 paper](https://dl.acm.org/doi/10.1145/2538862.2538923)
 
