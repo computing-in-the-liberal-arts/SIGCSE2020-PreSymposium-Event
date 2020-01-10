@@ -46,9 +46,9 @@ To be eligible for a computer science major, a student must have at least a C+ a
 
 The following are the requirements for a minor in computer science:
 
-Six credits in computer science:
+Six credits in computer science (see above for course names):
 
-* CPSC 021. (If exempted from CPSC 021 without AP credit, substitute one course from any Group listed below.)
+* CPSC 021.
 * CPSC 031 and CPSC 035.
 * Two upper-level courses drawn from two of the following three groups:
   - Group 1: CPSC 041 or CPSC 046.
@@ -56,7 +56,7 @@ Six credits in computer science:
   - Group 3: CPSC 040, CPSC 056, CPSC 063, CPSC 065, CPSC 066, CPSC 068, CPSC 071, CPSC 073 or CPSC 081.
 
 * One CPSC course numbered above CPSC 035 that is different from the choices in part (c) above. Excludes courses that earn less than 1 credit.
-* One MATH course at the level of MATH 027 or above. Discrete Math is recommended. Students may satisfy this requirement with STAT 021. Students who place out of this credit should contact the Computer Science department chair. CPSC 046/MATH 046 may not be used to satisfy the Math requirement.
+* One MATH course at the level of MATH 027 or above. Discrete Math is recommended. Students may satisfy this requirement with STAT 021.
 
 ### Co-curricular program(s)
 
