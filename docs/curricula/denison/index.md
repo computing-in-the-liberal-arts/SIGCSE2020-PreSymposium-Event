@@ -5,21 +5,19 @@ _Please limit your contribution to about two pages, or 700-1000 words._
 
 ## Institutional and departmental context
 - Location: Granville, Ohio
-- Student body size: _2,300_ students
+- Student body size: _2,300 students (all undergraduate)_
 - Degree(s) offered: _BA, BS_
 - Department/major name: _Computer Science_
-- Number of contributing faculty: _6.5_ FTE
+- Number of contributing faculty: _7 FTE_
 - Number of majors annually: _25 majors and 5 minors_
-
-_Expand here on any other contextual factors that have shaped your curriculum: 
-- expanding interest by showing relevance to other disciplines
-- DA major, shared courses_
 
 ## Curricular overview
 
 ### Major programs
 
-#### Core Courses (8.25)
+#### Core Courses
+
+_There are eight 4-credit courses and one 1-credit course shared by the BA and BS._
 
 - Discovering Computer Science (one of the following)
   - Scientific Data and Dynamics (CS 111)
@@ -55,12 +53,12 @@ _Systems_
 - Operating Systems
 - Parallel Programming
 - Compilers
-- Networks
+- Computer Networks
 - Database Systems
 
 _Theory_
 - Theory of Computation
-- Probability, Computing and Graph Theory
+- Probability, Computing, and Graph Theory
 - Randomized Algorithms
 
 _Applied_
@@ -78,19 +76,24 @@ _Applied_
 
 _List and briefly describe minors, certificates, and courses open to non-majors._
 
-- Discovering CS courses are open to all (8 sections per year).
-- CS minor requires the first 6 courses in the core (above)
-- DA
+- The introductory _Discovering CS_ courses are designed to be taken by any student with no pre-requisites.  We are currently offering about 8 sections per year.
+- The CS minor requires the first 6 courses in the core (above).
+- We also participate in the Data Analytics (DA) program.  The introductory DA course is also open to all students.
 
 ### Co-curricular program(s)
 
-_List and briefly describe non-credit-bearing opportunities for students._
+- summer research opportunities
+- internship support through the career development center
+- monthly _Pizza and Puzzles_ gatherings
+- monthly _Computing and Coffee_ discussions
+- Gordon lecture series
+- programming contests
+- TRIWiC participation
 
 ## Key contributions
-_What do you want us to learn from your curriculum? What may be adopted/adapted by others?_
 
-- 11x
-- 181
+- 11x, book
+- 181, forthcoming book
 - 234
 - longer ds/alg sequence
 - 395
