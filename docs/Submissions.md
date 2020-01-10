@@ -22,6 +22,6 @@ This page contains materials submitted by the participants in a pre-symposium ev
 - [Recruiting, Hiring, and Retaining Faculty](challenges/hiring.md) - Amanda Holland-Minkley
 - [Recruiting Students BA vs BS and K12 Teacher Certification](challenges/recruiting.md) - Mike Zamansky
 - [Serving Computing _and_ Data Science Needs in a Liberal Arts Setting](challenges/data_science.md) - Karl Schmitt
-- [STEM Scholars Program for Recruitment and Retention](cpams.md) - Megan Olsen
+- [STEM Scholars Program for Recruitment and Retention](challenges/cpams.md) - Megan Olsen
 - [What Do We Teach the Non-majors?](challenges/non-majors.md) - John Rager
 - [Wide Ranging Student Backgrounds in Introductory Courses](challenges/backgrounds.md) - Amanda Holland-Minkley
