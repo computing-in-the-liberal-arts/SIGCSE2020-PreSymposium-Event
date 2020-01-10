@@ -8,10 +8,11 @@ Contributed by Jim Teresco, jteresco@siena.edu
 - Degree(s) offered: B.S. Computer Science, B.S. Software Development
 - Department/major name: Computer Science
 - Number of contributing faculty: 17 FTE
-- Number of majors annually: 30 majors
+- Number of majors annually: 30-40 majors
 
-Computer Science has a long history at Siena College.  (Insert a few
-details from Jim M. or others?  Omit?)
+Computer Science has a long history at Siena College.  The Computer
+Science Department was created and started offering a B.S. in Computer
+Science in 1979.
 
 A second major program in Software Development was approved and first
 became available to students in 2018-19.  Its original name was
@@ -190,7 +191,7 @@ introduction of the Software Development major:
 
 In response to this, we are considering returning to a single major,
 but retaining and expanding the flexibility introduced by recent
-changes.  The new major would including a smaller set of required
+changes.  The new major would include a smaller set of required
 courses, but with a number of tracks or concentrations, one of which
 would need to be completed to satisfy the major requirements.
 
