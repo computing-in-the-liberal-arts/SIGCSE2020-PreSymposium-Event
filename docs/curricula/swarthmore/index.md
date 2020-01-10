@@ -82,7 +82,7 @@ like a graduate-level seminar where students read and discuss research
 papers, and propose and carry out a semester long project.  Unfortunately,
 we have had to cut this from our curriculum due to enrollment issues.
 
-[figure of our curriculum with groups and requirements](currfig.svg)
+![figure of our curriculum with groups and requirements](currfig.svg)
 
 2. **Student Mentor Program in our three introductory courses**.  Our
   [CS Ninja](https://www.swarthmore.edu/computer-science/ninjas) program
