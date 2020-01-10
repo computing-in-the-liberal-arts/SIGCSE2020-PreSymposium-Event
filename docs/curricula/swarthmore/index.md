@@ -91,11 +91,8 @@ for our introductory students. Student ninjas are selected from students who
 recently completed the course.  We choose ninjas who did well in the course,
 but who are also patient, responsible, enthusiastic, and helpful to students with all backrounds and abilities.  We addtionally, select a diverse set of
 student ninjas because of their importance as mentors.  We have seen a
-dramatic improvement in representation in our courses and our major.  
-Currently, we meet the college-wide demographics for URM and women
-in our intro course, and close in our second two courses.  
-And approximately 40% of our majors are women (the class of 2020 is 42%).
-Details about our Ninja program are in our [SIGCSE 2014 paper](https://dl.acm.org/doi/10.1145/2538862.2538923)
+dramatic improvement in representation in our courses and our major.
+Currently, we meet the college-wide demographics for URM and women in our intro course, and close in our second two courses.  And approximately 40% of our majors are women (the class of 2020 is 42%).  Details about our Ninja program are in our [SIGCSE 2014 paper](https://dl.acm.org/doi/10.1145/2538862.2538923)
 
 3. **Introduce parallel computing in our introductory course sequence**.
   One of our second courses, CS31, introduces shared memory parallel computing
@@ -113,7 +110,15 @@ Details about our Ninja program are in our [SIGCSE 2014 paper](https://dl.acm.or
   our curriculum are in our [2017 Journal of Parallel and Distributed
   Computing paper](https://www.sciencedirect.com/science/article/pii/S0743731517300114).  CS31, Introdcution to Computer Systems provides
 
-_What do you want us to learn from your curriculum? What may be adopted/adapted by others?_
-
 ## Limitations/challenges
 _What challenges does your program face on which you might seek our advice? Or what limitations do you want us to know you are already aware of?_
+
+Limitations and Challenges
+
+* Lack of predictability in course offerings.  We struggle to know what courses we will be offerring more than a year ahead, which conflicts with the culture of a having a 2-year schedule at our institution.  This makes it difficult for students to determine their course plan and also for our faculty to prepare in advance.  The main cause of this lack of predictability is our reliance on hiring 3+ visiting positions each year.  Without knowing their abilities/areas of expertise, it is difficult to slot them into existing courses.   In addition, it is the flipside to having a flexible curriculum noted above.  
+
+* Limited experiences in CS.  Our major is currently 8 courses, which is a reduction from 3 years ago and in response to high enrollments.  We removed the senior capstone requirement, eliminated most seminar courses, and capped the number of courses any student could take to just 1 additional course then the major requirement.  The result of these changes is that our students have fewer experiences in computer science.  In particular, seminars and our capstone course guaranteed that students had at least one project-based course (usually more).  Now, many seniors graduate without completing any research projects, an important department objective.
+
+* Lack of verticality to curriculum results in varying preparations for students and overlap in courses.  Since students can take upper-level courses in any order.  For example, students may take Machine Learning before Artificial Intelligence, or the other way around, or only one of those courses.  This makes teaching the course difficult as there is a wide range of abilities coming into the course and a need to teach overlapping content in both courses.  In addition, we are limited in our ability to require specific math courses, or even the timing of when these courses are taken.
+
+* Trade-offs between ensuring diversity and relieving enrollment pressures.  Many of the options to reduce enrollments often have the effect of discouraging students who came to the major late, did not have a computer science experience prior to matriculating, and/or have interdisciplinary interests between CS and another discipline.  These students tend to be more diverse than the traditional computer scientist and thus are not appealing options to us.  However, this has left us under the strain of high enrollments with no end in sight.  
