@@ -5,6 +5,7 @@ This page contains materials submitted by the participants in a pre-symposium ev
 # Innovative Curricular Models for Computing Education in the Liberal Arts:
 - [Bard College](curricula/bard/index.md) - Keith O'Hara
 - [Bethell University](curricula/bethell/index.md) - Cathy Bareiss
+- [Denison University](curricula/denison/index.md) - Jessen Havill
 - [Dickinson College](curricula/dickinson/index.md) - Grant Braught
 - [Fresno Pacific University](curricula/fresno_pacific/index.md) - Simon Sultana and Whitney Bortz
 - [Furman University](curricula/furman/index.md) - Andrea Tartaro, Chris Healy and Chris Alvin
