@@ -14,8 +14,9 @@ Contributed by
 - Number of contributing faculty: 9.5 FTE (9 Tenure Track Faculty), plus two (2) lab instructors.
 - Number of majors annually: 60-70 majors
 
+## Curricular overview
 
-Our departmental goals for the Computer Science major state that students should:
+Our departmental **goals for the Computer Science major** state that students should:
 
 * Be able to apply problem solving skills to formalize general problem statements into precise algorithmic solutions
 become proficient programmers
@@ -26,7 +27,6 @@ demonstrate adequate competency in theory, systems, and applications, the three 
 * Be able to apply the computational and algorithmic problem solving skills learned in computer science across many disciplines.
 
 
-## Curricular overview
 
 Full [details of our program](https://www.swarthmore.edu/computer-science/honors-majors-and-minors) are
 available on our website.
