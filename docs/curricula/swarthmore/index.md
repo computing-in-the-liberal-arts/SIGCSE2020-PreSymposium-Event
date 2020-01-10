@@ -89,7 +89,7 @@ was designed, in part, to improve retention and recruitment of underrepresented
 students, and to provide a more helpful, welcoming and supportive environment
 for our introductory students. Student ninjas are selected from students who
 recently completed the course.  We choose ninjas who did well in the course,
-but who are also patient, responsible, enthusiastic, and helpful to students with all backrounds and abilities.  We addtionally, select a diverse set of
+but who are also patient, responsible, enthusiastic, and helpful to students with all backgrounds and abilities.  We additionally, select a diverse set of
 student ninjas because of their importance as mentors.  We have seen a
 dramatic improvement in representation in our courses and our major.
 Currently, we meet the college-wide demographics for URM and women in our intro course, and close in our second two courses.  And approximately 40% of our majors are women (the class of 2020 is 42%).  Details about our Ninja program are in our [SIGCSE 2014 paper](https://dl.acm.org/doi/10.1145/2538862.2538923)
@@ -98,12 +98,12 @@ Currently, we meet the college-wide demographics for URM and women in our intro 
   and expanded coverage in upper-level courses.
   One of our second courses, CS31, introduces shared memory parallel computing
   with pthreads, including synchronization.  CS31 also adds important
-  background in systems, machine orgainizaiton, and C programming that
+  background in systems, machine organization, and C programming that
   is a prerequisite to our upper-level Systems Group courses.  
   All of our Systems Group courses include some coverage of parallel and
   distributed computing (PDC) topics, ensuring that every major has
   exposure to PDC at the introductory and advanced level through their
-  group requirement.  The addtion
+  group requirement.  The addition
   of a CS31 prerequisite has freed up time in our upper-level courses
   where we used to introduce some of its content, and allowed us to expand
   coverage of PDC topics in these courses (the starred courses in our
@@ -116,7 +116,7 @@ _What challenges does your program face on which you might seek our advice? Or w
 
 Limitations and Challenges
 
-* Lack of predictability in course offerings.  We struggle to know what courses we will be offerring more than a year ahead, which conflicts with the culture of a having a 2-year schedule at our institution.  This makes it difficult for students to determine their course plan and also for our faculty to prepare in advance.  The main cause of this lack of predictability is our reliance on hiring 3+ visiting positions each year.  Without knowing their abilities/areas of expertise, it is difficult to slot them into existing courses.   In addition, it is the flipside to having a flexible curriculum noted above.  
+* Lack of predictability in course offerings.  We struggle to know what courses we will be offering more than a year ahead, which conflicts with the culture of a having a 2-year schedule at our institution.  This makes it difficult for students to determine their course plan and also for our faculty to prepare in advance.  The main cause of this lack of predictability is our reliance on hiring 3+ visiting positions each year.  Without knowing their abilities/areas of expertise, it is difficult to slot them into existing courses.   In addition, it is the flipside to having a flexible curriculum noted above.  
 
 * Limited experiences in CS.  Our major is currently 8 courses, which is a reduction from 3 years ago and in response to high enrollments.  We removed the senior capstone requirement, eliminated most seminar courses, and capped the number of courses any student could take to just 1 additional course then the major requirement.  The result of these changes is that our students have fewer experiences in computer science.  In particular, seminars and our capstone course guaranteed that students had at least one project-based course (usually more).  Now, many seniors graduate without completing any research projects, an important department objective.
 
