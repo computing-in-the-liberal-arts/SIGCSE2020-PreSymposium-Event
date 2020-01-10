@@ -22,7 +22,7 @@ Our departmental **goals for the Computer Science major** state that students sh
 * Be able to apply problem solving skills to formalize general problem statements into precise algorithmic solutions
 * Become proficient programmers
 * Demonstrate an understanding of the interplay between theory and practice
-demonstrate adequate competency in theory, systems, and applications, the three main areas of the computer science curriculum.
+* Demonstrate adequate competency in theory, systems, and applications, the three main areas of the computer science curriculum.
 * Have a broad exposure to computer systems.
 * Have experience conducting research and completing large projects; often such projects will require a team effort.
 * Be able to apply the computational and algorithmic problem solving skills learned in computer science across many disciplines.
