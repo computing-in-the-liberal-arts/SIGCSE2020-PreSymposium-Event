@@ -34,17 +34,16 @@ available on our website.
 
 ### Major program(s)
 
-The following are the requirements for a major in computer science:
+The following are the requirements for a major in computer science (8 credits in Computer Science):
 
-Eight credits in computer science:
 * CPSC 021: Introduction to Computer Science
 * CPSC 031: Introduction to Computer Systems and CPSC 035: Data Structures and Algorithms
 * One course from each of the following three groups:
-  - Theory Group : CPSC 041: Algorithms or CPSC 046: Theory of Computation
-  - Systems Group 2: CPSC 043: Computer Networks, CPSC 044: Database Systems, CPSC 045: Operating Systems, CPSC 075: Compilers, CPSC 087: Parallel and Distributed Computing, or CPSC 089: Cloud Systems and Data Center Networks.
-  - Applications Group 3: CPSC 040: Computer Graphics, CPSC 056: Computer Animation, CPSC 063: Artificial Intelligence, CPSC 065: Natural Language Processing, CPSC 066: Machine Learning, CPSC 068: Bioinformatics, CPSC 071: Software Engineering, CPSC 073: Programming Languages or CPSC 081: Adaptive Robotics
+  - **Theory Group**: CPSC 041: Algorithms or CPSC 046: Theory of Computation
+  - **Systems Group**: CPSC 043: Computer Networks, CPSC 044: Database Systems, CPSC 045: Operating Systems, CPSC 075: Compilers, CPSC 087: Parallel and Distributed Computing, or CPSC 089: Cloud Systems and Data Center Networks.
+  - **Applications Group**: CPSC 040: Computer Graphics, CPSC 056: Computer Animation, CPSC 063: Artificial Intelligence, CPSC 065: Natural Language Processing, CPSC 066: Machine Learning, CPSC 068: Bioinformatics, CPSC 071: Software Engineering, CPSC 073: Programming Languages or CPSC 081: Adaptive Robotics
 * Two CPSC courses numbered above CPSC 035: Data Structures and Algorithms that are different than the choices above.  
-* The senior comprehensive, ​CPSC 099.
+* The senior comprehensive, CPSC 099.
 * Two credits in MATH at the level of MATH 027: Discrete Math or above. Discrete Math and Linear Algebra are recommended. Students may satisfy one of these requirements with STAT 021: Statistical Methods II.
 
 Acceptance Criteria
@@ -53,9 +52,7 @@ To be eligible for a computer science major, a student must have at least a C+ a
 
 ### Non-major program(s)
 
-The following are the requirements for a minor in computer science:
-
-Six credits in computer science (see above for course names):
+The following are the requirements for a minor in computer science (6 credits in computer science) (see above for course names):
 
 * CPSC 021.
 * CPSC 031 and CPSC 035.
