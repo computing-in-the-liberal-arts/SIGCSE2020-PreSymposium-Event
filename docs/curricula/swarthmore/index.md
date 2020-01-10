@@ -57,7 +57,7 @@ Six credits in computer science (see above for course names):
   - Systems Group: CPSC 043, CPSC 044, CPSC 045, CPSC 075, CPSC 087 or CPSC 089 .
   - Applications Group: CPSC 040, CPSC 056, CPSC 063, CPSC 065, CPSC 066, CPSC 068, CPSC 071, CPSC 073 or CPSC 081.
 
-* One CPSC course numbered above CPSC 035 that is different from the choices above. 
+* One CPSC course numbered above CPSC 035 that is different from the choices above.
 * One MATH course at the level of MATH 027 or above. Discrete Math is recommended. Students may satisfy this requirement with STAT 021.
 
 ### Co-curricular program(s)
@@ -68,7 +68,6 @@ Honors?
 
 1. **Curriculum is designed to provide both breadth and depth in computer science**, while allowing for flexibility of specific upper-level course offerings to allow faculty to design new courses and adapt to specialties of new and
 visiting faculty.
-
 Our introductory sequence consists of 3 courses:  Introduction to Computer
 Science (CS21); Data Structures and Algorithms(35); and Introduction to
 Computer Systems(CS31).   All of our upper-level courses are grouped into
@@ -77,7 +76,6 @@ breath in our major, by requiring all majors to take at least one course
 from each group.  Additionally, majors have upper-level elective requirements
 that provides an means for students to explore specific areas of interest in
 more depth.   
-
 In the past our curriculum included a senior seminar capstone requirement
 for the major.  It was run
 like a graduate-level seminar where students read and discuss research
@@ -94,13 +92,17 @@ We have seen a dramatic improvement in representation in our courses and our
 major.  Currently, we meet the college-wide demographics for URM and women
 in our intro course, and close in our second two courses.  
 And approximately 40% of our majors are women (the class of 2020 is 42%).
+Details about our Ninja program are in [A Support Program for Introductory CS Courses that Improves Student Performance and Retains Students from Underrepresented Groups". Tia Newhall, Lisa Meeden, Andrew Danner, Ameet Soni, Frances Ruiz, Richard Wicentowski. Proceedings of the ACM Technical Symposium on Computer Science Education (SIGCSE), March 2014](https://dl.acm.org/doi/10.1145/2538862.2538923)
 
 3. **Introduce parallel computing in our introductory course sequence**.
   One of our second courses, CS31, introduces shared memory parallel computing
   with pthreads, including syncrhonization.  This has been ...
   All of our Systems Group courses include some coverage of PDC, so every
 major has exposure to PDC at the introductory and advanced level through their
-group requirment.
+group requirment.  Details about the PDC parts of our curriculum are 
+in ["Pervasive Parallel and Distributed Computing in a Liberal Arts College
+Curriculum". Tia Newhall, Andrew Danner, Kevin C. Webb The Journal of Parallel
+and Distributed Computing, volume 105, July 2017 ](https://www.sciencedirect.com/science/article/pii/S0743731517300114)
 
 _What do you want us to learn from your curriculum? What may be adopted/adapted by others?_
 
