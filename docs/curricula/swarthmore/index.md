@@ -75,12 +75,8 @@ three groups: Theory and Algorithms; Systems; and Applications.  We ensure
 breath in our major, by requiring all majors to take at least one course
 from each group.  Additionally, majors have upper-level elective requirements
 that provides an means for students to explore specific areas of interest in
-more depth.   
-In the past our curriculum included a senior seminar capstone requirement
-for the major.  It was run
-like a graduate-level seminar where students read and discuss research
-papers, and propose and carry out a semester long project.  Unfortunately,
-we have had to cut this from our curriculum due to enrollment issues.
+more depth.   The figure below shows the design and prerequisite structure of 
+our curriculum.
 
 ![figure of our curriculum with groups and requirements](currfig.svg)
 
@@ -89,9 +85,11 @@ we have had to cut this from our curriculum due to enrollment issues.
 was designed, in part, to improve retention and recruitment of underrepresented
 students, and to provide a more helpful, welcoming and supportive environment
 for our introductory students. Student ninjas are selected from students who
-recently completed the course based on ..  
-We have seen a dramatic improvement in representation in our courses and our
-major.  Currently, we meet the college-wide demographics for URM and women
+recently completed the course.  We choose ninjas who did well in the course,
+but who are also patient, responsible, enthusiastic, and helpful to students with all backrounds and abilities.  We addtionally, select a diverse set of 
+student ninjas because of their importance as mentors.  We have seen a 
+dramatic improvement in representation in our courses and our major.  
+Currently, we meet the college-wide demographics for URM and women
 in our intro course, and close in our second two courses.  
 And approximately 40% of our majors are women (the class of 2020 is 42%).
 Details about our Ninja program are in our [SIGCSE 2014 paper](https://dl.acm.org/doi/10.1145/2538862.2538923)
