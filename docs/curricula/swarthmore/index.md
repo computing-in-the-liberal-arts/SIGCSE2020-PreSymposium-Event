@@ -70,17 +70,8 @@ Six credits in computer science (see above for course names):
 
 ## Key contributions
 
-1. **Curriculum is designed to provide both breadth and depth in computer science**, while allowing for flexibility of specific upper-level course offerings to allow faculty to design new courses and adapt to specialties of new and
-visiting faculty.
-Our introductory sequence consists of 3 courses:  CS21 Introduction to Computer
-Science (our CS1); CS35:Data Structures and Algorithms(our CS2); and 
-CS31: Introduction to Computer Systems.   All of our upper-level courses 
-are grouped into three groups: Theory; Systems; and Applications.  We ensure
-breath in our major by requiring all majors to take at least one course
-from each group.  Additionally, majors have upper-level elective requirements
-that provides an means for students to explore specific areas of interest in
-more depth.   The figure below shows the design and prerequisite structure of
-our curriculum.
+1. **The curriculum is designed to provide both breadth and depth in computer science,** while allowing for flexibility of specific upper-level course offerings to allow faculty to design new courses and adapt to specialties of new and visiting faculty. Our introductory sequence consists of 3 courses:  CPSC 021: Introduction to Computer
+Science (our CS1 course); CPSC 035: Data Structures and Algorithms (our CS2 course); and CPSC 031: Introduction to Computer Systems. Each of our upper-level courses is situated in one of three groups: Theory, Systems, or Applications.  We ensure breath in our major by requiring all majors take at least one course from each group.  Additionally, majors have upper-level elective requirements that provides a means for students to explore specific areas of interest in more depth. The figure below shows the design and prerequisite structure of our curriculum. (Course names with followed by an asterisk are courses where we have introduced parallel and distributed concepts. See item 3 below.)
 
 ![figure of our curriculum with groups and requirements](currfig.svg)
 
