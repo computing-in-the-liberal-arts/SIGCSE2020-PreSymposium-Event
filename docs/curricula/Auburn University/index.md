@@ -140,7 +140,8 @@ DOI:10.1145/3159450.3159523
 
 [12] Knezek, G. and Christensen, R. 1996. Validating the Computer Attitude Questionnaire (CAQ). Presented at Annual Meeting of the Southwest Education Research Association (New Orleans, Louisiana, January 26, 1996). AMSERA’96.
 
-[13] learn piano with the song you love, https://www.flowkey.com/en
+[13] learn piano with the song you love, https://www.flowkey.com/en. 
+
 [14] Carlos N. Silla Jr., Andr ́e L. Przybysz, Andriano Rivolli, Thayna Gimenez, Carolina Barroso, Jessika Machado, “Girls, Music and Computer Science”
 
 [15] Carlos N. Silla Jr., Andr ́e L. Przybysz, and Wellington V. Leal, “Music Education Meets Computer Science and Engineering Education”
@@ -149,5 +150,6 @@ DOI:10.1145/3159450.3159523
 [16] B. Taylor, J. Allison, Y. Oh, D. Holmes, and W. Conlin. “Simplified Expressive Mobile Development with NexusUI, NexusUp and NexusDrop”. In Proceedings of the New Interfaces for Musical Expression conference, 2014.
 
 [17] M. Jeon, M. Fakhrhosseini, J. Barnes, Z. Duford, R. ts -Robot Interact., no. 1, pp. 445446, 2016. 
+
 [18] J. Barnes, M. FakhrHosseini, E. Vasey, Z. Duford, J. - the Companion of the 2017 ACM/IEEE International Conference on Human-Robot Interaction - 404404. 
 
