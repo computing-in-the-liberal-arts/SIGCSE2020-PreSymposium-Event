@@ -71,7 +71,7 @@ credits/courses that can be required by majors.
 #### Computer Science 3/2 Program
 
 This is a 5-year program, where the B.S. in Computer Science from
-Siena is earned by spending 3 years a Siena, then a B.S. in
+Siena is earned by spending 3 years at Siena, then a B.S. in
 Engineering is earned by spending 2 additional years at Rensselaer
 Polytechnic Institute, Clarkson University, or SUNY Binghamton.
 
@@ -160,7 +160,7 @@ Plus any 2 of the following for 6 credits:
   students.
 
 - The Software Development major is very early in its existence, but
-  so far it has generated minimal new interest, but many current
+  so far it has generated minimal new interest. However, many current
   students have switched back and forth between the two majors.  They
   naturally and conveniently share most early requirements, allowing
   students to choose late in their careers which major to complete.
@@ -190,10 +190,11 @@ introduction of the Software Development major:
   some changes to Software Development requirements.
 
 In response to this, we are considering returning to a single major,
-but retaining and expanding the flexibility introduced by recent
-changes.  The new major would include a smaller set of required
-courses, but with a number of tracks or concentrations, one of which
-would need to be completed to satisfy the major requirements.
+but retaining and expanding the flexibility introduced by the
+introduction of Software Development.  The new major is being designed
+to include a core of required courses, but with a number of
+tracks or concentrations, one of which would need to be completed to
+satisfy the major requirements.
 
 We would like to share our thoughts on the new major requirements and
 to get advice and feedback from the attendees.
