@@ -7,6 +7,7 @@ This page contains materials submitted by the participants in a pre-symposium ev
 - [Bethell University](curricula/bethell/index.md) - Cathy Bareiss
 - [Dickinson College](curricula/dickinson/index.md) - Grant Braught
 - [Fresno Pacific University](curricula/fresno_pacific/index.md) - Simon Sultana and Whitney Bortz
+- [Furman University](curricula/furman/index.md) - Andrea Tartaro, Chris Healy and Chris Alvin
 - [Point Loma Nazarene University](curricula/pointloma/index.md) - Lori Carter
 - [Whitman College](curricula/whitman/index.md) - Janet Davis
 

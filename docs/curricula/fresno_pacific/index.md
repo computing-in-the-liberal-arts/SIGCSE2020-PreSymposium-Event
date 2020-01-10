@@ -7,7 +7,7 @@ Contributed by Simon Sultana, simon.sultana@fresno.edu and Whitney Bortz, whitne
 - Degree(s) offered:  Software Engineering B.A. & B.S.
 - Department/major name:
   - Dept. of Mathematics and Computer Science: Software Engineering B.A. & B.S.
-  - Humanities, Religion, and Social Science Department: Liberal Studies, B.A.
+  - Humanities, Religion, and Social Science Department: Liberal Studies, B.A.  
 - Number of contributing faculty: 2 FTE
 - Number of majors annually: 5-10 (third year)
 
