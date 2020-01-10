@@ -66,9 +66,7 @@ Honors?
 
 ## Key contributions
 
-* Curriculum is designed to provide both breadth and depth in computer science,
-* while allowing for flexibility of specific upper-level course offerings to 
-allow faculty to design new courses and adapt to specialties of new and
+1. **Curriculum is designed to provide both breadth and depth in computer science**, while allowing for flexibility of specific upper-level course offerings to allow faculty to design new courses and adapt to specialties of new and
 visiting faculty.
 
 Our introductory sequence consists of 3 courses:  Introduction to Computer
@@ -86,7 +84,7 @@ like a graduate-level seminar where students read and discuss research
 papers, and propose and carry out a semester long project.  Unfortunately,
 we have had to cut this from our curriculum due to enrollment issues.
 
-* Student Mentor Program in our three introductory courses.  Our 
+2. **Student Mentor Program in our three introductory courses**.  Our 
   [CS Ninja](https://www.swarthmore.edu/computer-science/ninjas) program
 was designed, in part, to improve retention and recruitment of underrepresented
 students, and to provide a more helpful, welcoming and supportive environment
@@ -97,7 +95,7 @@ major.  Currently, we meet the college-wide demographics for URM and women
 in our intro course, and close in our second two courses.  
 And approximately 40% of our majors are women (the class of 2020 is 42%).
 
-* Introduce parallel computing in our introductory course sequence. 
+3. **Introduce parallel computing in our introductory course sequence**. 
   One of our second courses, CS31, introduces shared memory parallel computing
   with pthreads, including syncrhonization.  This has been ...
   All of our Systems Group courses include some coverage of PDC, so every 
