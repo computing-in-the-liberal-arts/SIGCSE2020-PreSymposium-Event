@@ -65,11 +65,11 @@ Six credits in computer science (see above for course names):
 
 1. **Curriculum is designed to provide both breadth and depth in computer science**, while allowing for flexibility of specific upper-level course offerings to allow faculty to design new courses and adapt to specialties of new and
 visiting faculty.
-Our introductory sequence consists of 3 courses:  Introduction to Computer
-Science (CS21); Data Structures and Algorithms(35); and Introduction to
-Computer Systems(CS31).   All of our upper-level courses are grouped into
-three groups: Theory and Algorithms; Systems; and Applications.  We ensure
-breath in our major, by requiring all majors to take at least one course
+Our introductory sequence consists of 3 courses:  CS21 Introduction to Computer
+Science (our CS1); CS35:Data Structures and Algorithms(our CS2); and 
+CS31: Introduction to Computer Systems.   All of our upper-level courses 
+are grouped into three groups: Theory; Systems; and Applications.  We ensure
+breath in our major by requiring all majors to take at least one course
 from each group.  Additionally, majors have upper-level elective requirements
 that provides an means for students to explore specific areas of interest in
 more depth.   The figure below shows the design and prerequisite structure of 
