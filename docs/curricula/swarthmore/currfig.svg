@@ -286,8 +286,8 @@
              id="text4557-0"
              transform="scale(1,-1)"><tspan
                sodipodi:role="line"
-               x="319.87677"
-               y="-214.71101"
+               x="346.87677"
+               y="-213.71101"
                id="tspan4561-6"
                style="font-size:12px;line-height:1.25;font-family:sans-serif;fill:#010000;fill-opacity:1;">Graphics*</tspan></text>
           <text
@@ -306,7 +306,7 @@
                x="275.33694"
                y="-213.60945"
                style="font-size:12px;line-height:1.25;font-family:sans-serif;fill:#010101;fill-opacity:1"
-               id="tspan4677">PL, SE, </tspan><tspan
+               id="tspan4677">PL, SoftEngr, </tspan><tspan
                sodipodi:role="line"
                x="275.33694"
                y="-198.60945"
@@ -500,17 +500,23 @@
              id="tspan4561-9"
              y="-227.30946"
              x="138.27676"
-             sodipodi:role="line">OS*, NW*, DB*,</tspan><tspan
+             sodipodi:role="line">Compilers*, Cloud*,</tspan><tspan
              id="tspan4624"
              style="font-size:12px;line-height:1.25;font-family:sans-serif;fill:#030000;fill-opacity:1"
-             y="-212.30946"
+             y="-214.30946"
              x="138.27676"
-             sodipodi:role="line">Parallel &amp; Dist*,</tspan><tspan
+             sodipodi:role="line">Databases*,</tspan><tspan
              id="tspan4626"
              style="font-size:12px;line-height:1.25;font-family:sans-serif;fill:#030000;fill-opacity:1"
-             y="-197.30946"
+             y="-201.30946"
              x="138.27676"
-             sodipodi:role="line">Cloud*, Compilers*</tspan></text>
+             sodipodi:role="line">Parallel/Dist*, OpSys*</tspan>
+           <tspan
+             id="tspan4626"
+             style="font-size:12px;line-height:1.25;font-family:sans-serif;fill:#030000;fill-opacity:1"
+             y="-188.30946"
+             x="138.27676"
+             sodipodi:role="line">Networks*</tspan></text>
       </g>
       <g
          id="g4679">
