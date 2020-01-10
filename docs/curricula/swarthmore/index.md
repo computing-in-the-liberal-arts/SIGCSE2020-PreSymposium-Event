@@ -98,11 +98,19 @@ Details about our Ninja program are in our [SIGCSE 2014 paper](https://dl.acm.or
 
 3. **Introduce parallel computing in our introductory course sequence**.
   One of our second courses, CS31, introduces shared memory parallel computing
-  with pthreads, including synchronization.  This has been ...
-  All of our Systems Group courses include some coverage of PDC, so every
-major has exposure to PDC at the introductory and advanced level through their
-group requirement.  Details about the PDC parts of our curriculum are 
-in our [2017 Journal of Parallel and Distributed Computing paper](https://www.sciencedirect.com/science/article/pii/S0743731517300114)
+  with pthreads, including synchronization.  CS31 also adds important 
+  background in systems, machine orgainizaiton, and C programming that 
+  is a prerequisite to our upper-level Systems Group courses.  
+  All of our Systems Group courses include some coverage of parallel and 
+  distributed computing (PDC) topics, ensuring that every major has 
+  exposure to PDC at the introductory and advanced level through their
+  group requirement.  The addtion
+  of a CS31 prerequisite has freed up time in our upper-level courses
+  where we used to introduce some of its content, and allowed us to expand
+  coverage of PDC topics in these courses (the starred courses in our 
+  curriculum figure include PDC topics).  Details about the PDC parts of 
+  our curriculum are in our [2017 Journal of Parallel and Distributed 
+  Computing paper](https://www.sciencedirect.com/science/article/pii/S0743731517300114).  CS31, Introdcution to Computer Systems provides 
 
 _What do you want us to learn from your curriculum? What may be adopted/adapted by others?_
 
