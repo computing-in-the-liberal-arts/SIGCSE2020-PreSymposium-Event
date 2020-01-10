@@ -9,6 +9,7 @@ This page contains materials submitted by the participants in a pre-symposium ev
 - [Dickinson College](curricula/dickinson/index.md) - Grant Braught
 - [Fresno Pacific University](curricula/fresno_pacific/index.md) - Simon Sultana and Whitney Bortz
 - [Furman University](curricula/furman/index.md) - Andrea Tartaro, Chris Healy and Chris Alvin
+- [Loyola University Maryland](curricula/loyola/index.md) - Megan Olsen
 - [Point Loma Nazarene University](curricula/pointloma/index.md) - Lori Carter
 - [Siena College](curricula/siena/index.md) - Jim Teresco
 - [Whitman College](curricula/whitman/index.md) - Janet Davis
@@ -21,5 +22,6 @@ This page contains materials submitted by the participants in a pre-symposium ev
 - [Recruiting, Hiring, and Retaining Faculty](challenges/hiring.md) - Amanda Holland-Minkley
 - [Recruiting Students BA vs BS and K12 Teacher Certification](challenges/recruiting.md) - Mike Zamansky
 - [Serving Computing _and_ Data Science Needs in a Liberal Arts Setting](challenges/data_science.md) - Karl Schmitt
+- [STEM Scholars Program for Recruitment and Retention](cpams.md) - Megan Olsen
 - [What Do We Teach the Non-majors?](challenges/non-majors.md) - John Rager
 - [Wide Ranging Student Backgrounds in Introductory Courses](challenges/backgrounds.md) - Amanda Holland-Minkley
