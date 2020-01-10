@@ -10,6 +10,7 @@ This page contains materials submitted by the participants in a pre-symposium ev
 - [Fresno Pacific University](curricula/fresno_pacific/index.md) - Simon Sultana and Whitney Bortz
 - [Furman University](curricula/furman/index.md) - Andrea Tartaro, Chris Healy and Chris Alvin
 - [Point Loma Nazarene University](curricula/pointloma/index.md) - Lori Carter
+- [Sienna College](curricula/sienna/index.md) - Jim Teresco
 - [Whitman College](curricula/whitman/index.md) - Janet Davis
 
 
