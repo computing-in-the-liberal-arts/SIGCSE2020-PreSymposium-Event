@@ -96,10 +96,10 @@ Details about our Ninja program are in [A Support Program for Introductory CS Co
 
 3. **Introduce parallel computing in our introductory course sequence**.
   One of our second courses, CS31, introduces shared memory parallel computing
-  with pthreads, including syncrhonization.  This has been ...
+  with pthreads, including synchronization.  This has been ...
   All of our Systems Group courses include some coverage of PDC, so every
 major has exposure to PDC at the introductory and advanced level through their
-group requirment.  Details about the PDC parts of our curriculum are 
+group requirement.  Details about the PDC parts of our curriculum are 
 in ["Pervasive Parallel and Distributed Computing in a Liberal Arts College
 Curriculum". Tia Newhall, Andrew Danner, Kevin C. Webb The Journal of Parallel
 and Distributed Computing, volume 105, July 2017 ](https://www.sciencedirect.com/science/article/pii/S0743731517300114)
