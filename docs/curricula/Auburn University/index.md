@@ -16,9 +16,9 @@ _Name of the program: Mentoring Alabama Girls in Computing and Music (MAGIC + M)
 -	Number of contributing faculty: 2 Faculty members
 -	Number of majors annually: AU offers more than 150 undergraduate and graduate majors, which are housed in 12 colleges and schools. 
  
-### institutional mission
+### Institutional Mission
 As a land-grant institution, AU is dedicated to improving the lives of the people of Alabama, the nation, and the world through forward-thinking education, life-enhancing research and scholarship, and selfless service.
-### culture, curriculum, or strategic plans
+### Culture, Curriculum, or Strategic Plans
 Many programs have aimed to increase awareness about Science, Technology, Engineering, and Mathematics (STEM) education for 
 female students across the globe, such as the Cybergirlz and Cyberhigh initiatives [1]. In our efforts to attract 
 underrepresented female students towards future careers in Computer Science (CS) and Music, we developed the MAGIC + M 
@@ -66,13 +66,13 @@ Table 1: MAGIC +M Computing Module Lesson Plan Outline
 - Appropriate assessments for each learning objective are based upon previous research including AU pilot programs beginning in 2016.  Previous publications on EarSketch indicate increased creativity from four perspectives: process, person, place, and product [6, 7, 8, 9]. We plan to run a path analysis for creativity subscales.  Pre-post survey and knowledge tests were developed to assess each stated objective. We developed an attitude survey based on [10] measuring confidence, enjoyment, importance, motivation, identity, intent to persist, personal creativity, and authenticity. The Student Engagement Survey includes subscales from the CS Attitude Survey (CSAS) [11] and adapts items from Knezek & Christensen [12] to measure identity/belongingness. Additionally, AU CSSE and music education teams, developed a 20- item language agnostic computing-music content knowledge assessment to assess gains in programming content knowledge and music concepts. 
 
 
-### relevant historical circumstances
+### Relevant historical circumstances
 Females of all ethnicities are under-represented in STEM areas, but the equity gap is even greater for females of color. Therefore, this project aims to provide a thickly authentic learning environment for females of color and underrepresented females to increase their creativity and interest to persist in STEAM (STEM + Arts) related fields. 
 
-### goals for interdisciplinarity, broaadening participation, etc
+### Goals for interdisciplinarity, broaadening participation, etc
 This collaboration between our CSSE and Music Education program represents an innovative approach employing two-way integration of computing and music (STEAM) as opposed to previous approaches that merely used music as a tool for learning in STEM areas.  This curriculum is based on content standards for both science and music. 
 
-### unusual opportunties
+### Unusual opportunties
 - This program represents a unique collaboration between CS and Music Education, to assure the highest quality of this interdisciplinary K12 research and outreach program.
 - We maintain a low student to teacher ratio to ensure excellent supervision and guidance throughout the program.
 - In MAGIC + M camp, these disadvantaged students will have access to a computer lab, MIDI keywords, 10 world renowned semi-humanoid PEPPER robots, and other state-of-the art hardware and software.
