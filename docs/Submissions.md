@@ -6,6 +6,7 @@ This page contains materials submitted by the participants in a pre-symposium ev
 - [Bard College](curricula/bard/index.md) - Keith O'Hara
 - [Bethell University](curricula/bethell/index.md) - Cathy Bareiss
 - [Dickinson College](curricula/dickinson/index.md) - Grant Braught
+- [Fresno Pacific University](curricula/fresno_pacific/index.md) - Simon Sultana and Whitney Bortz
 - [Point Loma Nazarene University](curricula/pointloma/index.md) - Lori Carter
 - [Whitman College](curricula/whitman/index.md) - Janet Davis
 
