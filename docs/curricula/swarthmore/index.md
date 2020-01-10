@@ -3,14 +3,15 @@ Contributed by
 - Tia Newhall, newhall@cs.swarthmore.edu
 - Rich Wicentowski, rwicent1@swarthmore.edu
 - Andrew Danner, adanner1@swarthmore.edu
+- Ameet Soni, soni@cs.swarthmore.edu
 
 
 ## Institutional and departmental context
 - Location: Swarthmore, PA
 - Student body size: 1667 students
 - Degree(s) offered: B.A.
-- Department/major name: Computer Science
-- Number of contributing faculty: 9.5 FTE (9 Tenure Track Faculty)
+- Department/major name: [Computer Science](https://cs.swarthmore.edu)
+- Number of contributing faculty: 9.5 FTE (9 Tenure Track Faculty), plus two (2) lab instructors.
 - Number of majors annually: 60-70 majors
 
 _Expand here on any other contextual factors that have shaped your curriculum:
@@ -21,7 +22,8 @@ _Expand here on any other contextual factors that have shaped your curriculum:
 
 ## Curricular overview
 
-_Address any or all of the below as relevant._
+Full [details of our program](https://www.swarthmore.edu/computer-science/honors-majors-and-minors) are
+available on our website.
 
 ### Major program(s)
 
