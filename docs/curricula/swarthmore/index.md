@@ -94,7 +94,8 @@ student ninjas because of their importance as mentors.  We have seen a
 dramatic improvement in representation in our courses and our major.
 Currently, we meet the college-wide demographics for URM and women in our intro course, and close in our second two courses.  And approximately 40% of our majors are women (the class of 2020 is 42%).  Details about our Ninja program are in our [SIGCSE 2014 paper](https://dl.acm.org/doi/10.1145/2538862.2538923)
 
-3. **Introduce parallel computing in our introductory course sequence**.
+3. **Introduce parallel computing in our introductory course sequence**, 
+  and expanded coverage in upper-level courses.
   One of our second courses, CS31, introduces shared memory parallel computing
   with pthreads, including synchronization.  CS31 also adds important
   background in systems, machine orgainizaiton, and C programming that
@@ -108,7 +109,7 @@ Currently, we meet the college-wide demographics for URM and women in our intro 
   coverage of PDC topics in these courses (the starred courses in our
   curriculum figure include PDC topics).  Details about the PDC parts of
   our curriculum are in our [2017 Journal of Parallel and Distributed
-  Computing paper](https://www.sciencedirect.com/science/article/pii/S0743731517300114).  CS31, Introdcution to Computer Systems provides
+  Computing paper](https://www.sciencedirect.com/science/article/pii/S0743731517300114).  
 
 ## Limitations/challenges
 _What challenges does your program face on which you might seek our advice? Or what limitations do you want us to know you are already aware of?_
