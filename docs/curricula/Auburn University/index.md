@@ -43,6 +43,9 @@ concepts and skills using Scratch music-related games [3] Introducing students t
 
 - We will recruit 20 middle school and 20 high school female students from low Supplemental Educational Services (SES) public schools across Alabama. The summary of our lesson plan is outlined in Tables 1, 2.
 
+
+Table 1: MAGIC +M Computing Module Lesson Plan Outline
+
 | Section  | Learning Objective:  Students will . . . |
 | --- | --- |
 | Demonstrate PEPPER’s reaction to music  | Explore and interact with the technology|
@@ -51,6 +54,8 @@ concepts and skills using Scratch music-related games [3] Introducing students t
 |Illustrate PEPPER programming | Understand the steps required to program the PEPPER using blocked programming based functional coding |
 |Hands-on coding activity and dance routine |Get familiar with coding a PEPPER and learn to test the routine and see how the commands on the synchronizing the PEPPER dancing robotic with students’ musical composition.|
 
+ Table 2: MAGIC +M Music Module Lesson Plan Outline
+ 
 | Section  | Learning Objective:  Students will . . . |
 | --- | --- |
 | Demonstrate creativity in using music in other fields. | Explore basic concepts of rhythm and generating a musical composition. |
