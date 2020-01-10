@@ -1,8 +1,6 @@
 # _Denison University_
 Contributed by _Jessen Havill_, _havill@denison.edu_
 
-_Please limit your contribution to about two pages, or 700-1000 words._
-
 ## Institutional and departmental context
 - Location: Granville, Ohio
 - Student body size: _2,300 students (all undergraduate)_
