@@ -27,48 +27,43 @@ Our departmental **goals for the Computer Science major** state that students sh
 * Have experience conducting research and completing large projects; often such projects will require a team effort.
 * Be able to apply the computational and algorithmic problem solving skills learned in computer science across many disciplines.
 
-
+Additionally, we aim to broaden participation and ensure our curriculum appeals to a wide variety of backgrounds and preparations.
 
 Full [details of our program](https://www.swarthmore.edu/computer-science/honors-majors-and-minors) are
 available on our website.
 
 ### Major program(s)
 
-The following are the requirements for a major in computer science (8 credits in Computer Science):
+The following are the requirements for a major in computer science (eight credits in Computer Science):
 
-* CPSC 021: Introduction to Computer Science
-* CPSC 031: Introduction to Computer Systems and CPSC 035: Data Structures and Algorithms
-* One course from each of the following three groups:
-  - **Theory Group**: CPSC 041: Algorithms or CPSC 046: Theory of Computation
-  - **Systems Group**: CPSC 043: Computer Networks, CPSC 044: Database Systems, CPSC 045: Operating Systems, CPSC 075: Compilers, CPSC 087: Parallel and Distributed Computing, or CPSC 089: Cloud Systems and Data Center Networks.
-  - **Applications Group**: CPSC 040: Computer Graphics, CPSC 056: Computer Animation, CPSC 063: Artificial Intelligence, CPSC 065: Natural Language Processing, CPSC 066: Machine Learning, CPSC 068: Bioinformatics, CPSC 071: Software Engineering, CPSC 073: Programming Languages or CPSC 081: Adaptive Robotics
-* Two CPSC courses numbered above CPSC 035: Data Structures and Algorithms that are different than the choices above.  
-* The senior comprehensive, CPSC 099.
-* Two credits in MATH at the level of MATH 027: Discrete Math or above. Discrete Math and Linear Algebra are recommended. Students may satisfy one of these requirements with STAT 021: Statistical Methods II.
-
-Acceptance Criteria
-
-To be eligible for a computer science major, a student must have at least a C+ average in the intermediate courses (CPSC 031 and CPSC 035). In addition, students must have at least a C in CPSC 031 and CPSC 035. Students who have not met this criterion may re-take CPSC 031 or CPSC 035 to obtain the necessary foundation for success in upper-level courses.
+* Three introductory courses: Introduction to Computer Science (CS21), Introduction to Computer Systems (CS31), and Data Structures and Algorithms (CS35).
+* Three upper-level CS requirements: One course from each of the following groups:
+  - **Theory Group**: Algorithms (CS41) or Theory of Computation (CS46)
+  - **Systems Group**: Computer Networks (CS43), Database Systems (CS44), Operating Systems (CS45), Compilers (CS75),Parallel and Distributed Computing (CS87), or Cloud Systems and Data Center Networks (CS89).
+  - **Applications Group**: Computer Graphics (CS40), Computer Animation (CS56), Artificial Intelligence (CS63),  Natural Language Processing (CS65),  Machine Learning (CS66),  Bioinformatics (CS68), Software Engineering (CS71), Programming Languages (CS73) or Adaptive Robotics (CS81)
+* Two upper-level CS electives.  
+* Two credits in Math at the level of Linear Algebra (MATH27) or above. Discrete Math and Linear Algebra are recommended. Students may satisfy one of these requirements with Statistical Methods II (STAT21).
 
 ### Non-major program(s)
 
-The following are the requirements for a minor in computer science (6 credits in computer science) (see above for course names):
+The following are the requirements for a minor in computer science (six credits in computer science)
 
-* CPSC 021.
-* CPSC 031 and CPSC 035.
-* Two upper-level courses drawn from two of the following three groups:
-  - Theory Group: CPSC 041 or CPSC 046.
-  - Systems Group: CPSC 043, CPSC 044, CPSC 045, CPSC 075, CPSC 087 or CPSC 089 .
-  - Applications Group: CPSC 040, CPSC 056, CPSC 063, CPSC 065, CPSC 066, CPSC 068, CPSC 071, CPSC 073 or CPSC 081.
+* Three introductory courses
+* Three upper-level CS courses, at least two of which are in different groups.
+* One credit in Math at the level of Linear Algebra (MATH27) or above.
 
-* One CPSC course numbered above CPSC 035 that is different from the choices above.
-* One MATH course at the level of MATH 027 or above. Discrete Math is recommended. Students may satisfy this requirement with STAT 021.
+### Co-curricular program(s)
 
+The department supports a number of co-curricular programs:
+
+* An active [Women in Computing](https://www.cs.swarthmore.edu/wics/) student group
+* [Summer research experiences](https://www.swarthmore.edu/computer-science/summer-research) for our students
+* Training and teams for the International Collegiate Programming Competition (ICPC)
 
 ## Key contributions
 
-1. **The curriculum is designed to provide both breadth and depth in computer science,** while allowing for flexibility of specific upper-level course offerings to allow faculty to design new courses and adapt to specialties of new and visiting faculty. Our introductory sequence consists of 3 courses:  CPSC 021: Introduction to Computer
-Science (our CS1 course); CPSC 035: Data Structures and Algorithms (our CS2 course); and CPSC 031: Introduction to Computer Systems. Each of our upper-level courses is situated in one of three groups: Theory, Systems, or Applications.  We ensure breath in our major by requiring all majors take at least one course from each group.  Additionally, majors have upper-level elective requirements that provide a means for students to explore specific areas of interest in more depth. The figure below shows the design and prerequisite structure of our curriculum. (Course names followed by an asterisk are courses where we have introduced parallel and distributed concepts. See item 3 below for further discussion of this.)
+1. **The curriculum is designed to provide both breadth and depth in computer science,** while allowing for flexibility of specific upper-level course offerings to allow faculty to design new courses and adapt to specialties of new and visiting faculty. Our introductory sequence consists of 3 courses:  CS21: Introduction to Computer
+Science (our CS1 course); CS35: Data Structures and Algorithms (our CS2 course); and CS31: Introduction to Computer Systems. Each of our upper-level courses is situated in one of three groups: Theory, Systems, or Applications.  We ensure breath in our major by requiring all majors take at least one course from each group.  Additionally, majors have upper-level elective requirements that provide a means for students to explore specific areas of interest in more depth. The figure below shows the design and prerequisite structure of our curriculum. (Course names followed by an asterisk are courses where we have introduced parallel and distributed concepts. See item 3 below for further discussion of this.)
 
 ![figure of our curriculum with groups and requirements](currfig.svg)
 
@@ -83,7 +78,7 @@ student ninjas because of their importance as mentors.  We have seen a
 dramatic improvement in representation in our courses and our major.
 Currently, we meet the college-wide demographics for URM and women in our intro course, and are close in our second two courses.  Additionally, approximately 40% of our majors are women (the class of 2020 is 42%).  Details about our Ninja program are in our [SIGCSE 2014 paper](https://dl.acm.org/doi/10.1145/2538862.2538923)
 
-3. **Introduce parallel computing in our introductory course sequence**, 
+3. **Introduce parallel computing in our introductory course sequence**,
   and expanded coverage in upper-level courses.
   One of our second courses, CS31, introduces shared memory parallel computing
   with pthreads, including synchronization.  CS31 also adds important
