@@ -62,7 +62,7 @@ The department supports a number of co-curricular programs:
 
 ## Key contributions
 
-1. **The curriculum is designed to provide both breadth and depth in computer science,** while allowing for flexibility of specific upper-level course offerings to allow faculty to design new courses and adapt to specialties of new and visiting faculty. Our introductory sequence consists of 3 courses:  CS21: Introduction to Computer
+1. **The curriculum is designed to provide both breadth and depth in computer science.** This design allows for flexibility in our upper-level course offerings so that faculty can design new courses and adapt to specialties of new and visiting faculty. Our introductory sequence consists of 3 courses:  CS21: Introduction to Computer
 Science (our CS1 course); CS35: Data Structures and Algorithms (our CS2 course); and CS31: Introduction to Computer Systems. Each of our upper-level courses is situated in one of three groups: Theory, Systems, or Applications.  We ensure breath in our major by requiring all majors take at least one course from each group.  Additionally, majors have upper-level elective requirements that provide a means for students to explore specific areas of interest in more depth. The figure below shows the design and prerequisite structure of our curriculum. (Course names followed by an asterisk are courses where we have introduced parallel and distributed concepts. See item 3 below for further discussion of this.)
 
 ![figure of our curriculum with groups and requirements](currfig.svg)
@@ -83,8 +83,7 @@ Currently, we meet the college-wide demographics for URM and women in our intro 
   One of our second courses, CS31, introduces shared memory parallel computing
   with pthreads, including synchronization.  CS31 also adds important
   background in systems, machine organization, and C programming that
-  is a prerequisite to our upper-level Systems Group courses.  
-  All of our Systems Group courses include some coverage of parallel and
+  is a prerequisite to our upper-level Systems Group courses. All of our Systems Group courses include some coverage of parallel and
   distributed computing (PDC) topics, ensuring that every major has
   exposure to PDC at the introductory and advanced level through their
   group requirement.  The addition
@@ -101,6 +100,6 @@ Currently, we meet the college-wide demographics for URM and women in our intro 
 
 * **Limited experiences in CS**.  Our major currently requires students to take only 8 courses in Computer Science, a reduction from nine courses.  This reduction was made in response to high enrollments.  We removed the senior capstone requirement, eliminated most seminar courses, and capped the number of courses any student could take to 9 courses.  The result of these changes is that our students have fewer experiences in computer science.  In particular, seminars and our capstone course guaranteed that students had at least one project-based course (usually more).  Now, many seniors graduate without completing any research projects, an important department objective.
 
-* **Lack of verticality** to curriculum results in varying preparations for students and overlap in courses. Students can take upper-level courses in any order.  For example, students may take Machine Learning before Artificial Intelligence, or the other way around, or only one of those courses.  This also means that rigorous upper-level courses (e.g., seminars) may taken as a student's first upper-level course.  This makes teaching the course difficult as there is a wide range of abilities coming into the course and a need to teach overlapping content in both courses.  In addition, we are limited in our ability to require specific math courses, or even the timing of when these courses are taken.
+* **Lack of verticality** to curriculum results in varying preparations for students and overlap in courses. Students can take upper-level courses in any order.  For example, students may take Machine Learning before Artificial Intelligence, or the other way around, or only one of those courses.  This also means that rigorous upper-level courses (e.g., seminars) may taken as a student's first upper-level course.  This makes teaching the course difficult as there is a wide range of abilities coming into the course and a need to teach overlapping content in both courses.  In addition, departmental autonomy limits our ability to require specific math courses, or even the timing of when these courses are taken.
 
 * **Trade-offs between ensuring diversity and relieving enrollment pressures**.  Many of the options to reduce enrollments often have the effect of discouraging students who came to the major late, did not have a computer science experience prior to matriculating, and/or have interdisciplinary interests between CS and another discipline.  These students tend to be more diverse than traditional computer scientist and thus these options to reduce enrollments are not appealing options to us.  However, this has left us under the strain of high enrollments with no end in sight.  
