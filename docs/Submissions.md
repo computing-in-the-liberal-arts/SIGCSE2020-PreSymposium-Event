@@ -25,6 +25,7 @@ This page contains materials submitted by the participants in a pre-symposium ev
 - [Oh, you’re a computer scientist! I have this great idea… Let’s collaborate!](challenges/collaborate.md) - Andrea Danyluk
 - [Recruiting, Hiring, and Retaining Faculty](challenges/hiring.md) - Amanda Holland-Minkley
 - [Recruiting Students BA vs BS and K12 Teacher Certification](challenges/recruiting.md) - Mike Zamansky
+- [Recruiting Students into CS Teaching Certification Programs](challenges/recruiting2.md) - Jim Matthews and Robin Flatland
 - [Serving Computing _and_ Data Science Needs in a Liberal Arts Setting](challenges/data_science.md) - Karl Schmitt
 - [STEM Scholars Program for Recruitment and Retention](challenges/cpams.md) - Megan Olsen
 - [What Do We Teach the Non-majors?](challenges/non-majors.md) - John Rager
