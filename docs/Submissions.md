@@ -9,7 +9,7 @@ This page contains materials submitted by the participants in a pre-symposium ev
 - [Denison University](curricula/denison/index.md) - Jessen Havill
 - [Dickinson College](curricula/dickinson/index.md) - Grant Braught
 - [Fresno Pacific University](curricula/fresno_pacific/index.md) - Simon Sultana and Whitney Bortz
-- [Fulbright University Vietnam](curricula/fulbright_vietnam.md) - Sebastian Dziallas
+- [Fulbright University Vietnam](curricula/fulbright_vietnam/index.md) - Sebastian Dziallas
 - [Furman University](curricula/furman/index.md) - Andrea Tartaro, Chris Healy and Chris Alvin
 - [Loyola University Maryland](curricula/loyolamd/index.md) - Megan Olsen
 - [Point Loma Nazarene University](curricula/pointloma/index.md) - Lori Carter
