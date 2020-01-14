@@ -16,11 +16,11 @@ This page contains materials submitted by the participants in a pre-symposium ev
 - [Swarthmore College](curricula/swarthmore/index.md) - Tia Newhall, Rich Wicentowski, Andrew Danner, Ameet Soni
 - [Whitman College](curricula/whitman/index.md) - Janet Davis
 
-
 # Challenges, Opportunities and Organizational Direction:
 - [Computational Literacy for Non-traditional Students](challenges/computational-literacy.md) - Maria Hwang
 - [Engaging Students in Integrated Studies of Issues with Social/Ethical/Technical Dimensions](challenges/integratedstudy.md) - Henry M. Walker
 - [How Can We Limit Enrollments While Preserving Access?](challenges/preserving-access.md) - Bob Geitz
+- [Incorporating Ethics into the Computer Science Curriculum](challenges/ethics.md) - Ameet Soni,
 - [Leverage Digital Humanities to Foster Collaboration between Computer Science and Other Liberal Arts Disciplines](challenges/digital_humanities.md) - Robert R. Kelley
 - [Recruiting, Hiring, and Retaining Faculty](challenges/hiring.md) - Amanda Holland-Minkley
 - [Recruiting Students BA vs BS and K12 Teacher Certification](challenges/recruiting.md) - Mike Zamansky
