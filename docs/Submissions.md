@@ -5,6 +5,7 @@ This page contains materials submitted by the participants in a pre-symposium ev
 # Innovative Curricular Models for Computing Education in the Liberal Arts:
 - [Auburn University](curricula/AuburnUniversity/index.md) - Daniela Marghitu, Nancy Barry, Fatemeh Jamshidi
 - [Bard College](curricula/bard/index.md) - Keith O'Hara
+- [Benedictine College](curricula/benedictine/index.md) - Donald J. Bagert
 - [Bethell University](curricula/bethell/index.md) - Cathy Bareiss
 - [Denison University](curricula/denison/index.md) - Jessen Havill
 - [Dickinson College](curricula/dickinson/index.md) - Grant Braught
