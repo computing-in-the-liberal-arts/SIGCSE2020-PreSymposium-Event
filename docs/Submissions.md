@@ -18,7 +18,6 @@ This page contains materials submitted by the participants in a pre-symposium ev
 
 
 # Challenges, Opportunities and Organizational Direction:
-- [Algorithmic Bias](challenges/algobias.md) - Henry Walker
 - [Computational Literacy for Non-traditional Students](challenges/computational-literacy.md) - Maria Hwang
 - [Engaging Students in Integrated Studies of Issues with Social/Ethical/Technical Dimensions](challenges/integratedstudy.md) - Henry M. Walker
 - [How Can We Limit Enrollments While Preserving Access?](challenges/preserving-access.md) - Bob Geitz
