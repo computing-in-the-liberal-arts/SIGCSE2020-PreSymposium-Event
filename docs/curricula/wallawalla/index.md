@@ -14,13 +14,13 @@ Contributed by Jonathan Duncan, jonathan.duncan@wallawalla.edu
 
 Walla Walla University is a Seventh-day Adventist institution of higher education founded in 1892.  In the 1940s, the university (then college) became the first institution of higher education in the denomination to establish a school of engineering.  This began the tradition of offering STEM majors in the context of a liberal arts education, as is the case with the computer science program.
 
-The computer science department at Walla Walla University grew out of the physics department in the 1980s.  However, after the program came close to closing in 2008. At that time, we were down to only 6 majors all together and university administration reduced our staffing level to 1.33 FTE. After a period of recovery and reorganization, the department began a period of intense curriculum modernization (which was about 20 years overdue) and started growing again in the early 2010's.  As of Fall 2019, we have reached 50 majors and continue to grow.
+The Computer Science Department at Walla Walla University grew out of the Physics Department in the 1980s.  The program came close to closing in 2008. At that time, we were down to only 6 majors total.  University administration reduced our staffing level to 1.33 FTE and planned on closing the program.  After some negotiations, we were given some time to recover and reorganization.  The department began a period of intense curriculum modernization (which was about 20 years overdue) and started growing again in the early 2010's.  As of Fall 2019, we have reached 50 majors and continue to grow.
 
 ## Curricular overview
 
 ### Major program(s)
 
-The Computer Science major (both B.A. and B.S.) consists of a common core of 38 quarter credits and a senior project sequence of 5 credits.  While designed to be taken one-class a quarter over four years, these classes can be finished in three years by students who transfer to the CS major.  Students in both majors must take the Major Field Test (MFT) in Computer Science, but no particular score is required to graduate.
+The Computer Science major consists of a common core of 38 quarter credits and a senior project sequence of 5 credits for both the B.A. and B.S. degrees.  While designed to be taken one class a quarter over four years (as a cohort), these classes can be finished in three years by students who transfer to the CS major.  Students in both the B.A. and B.S. degrees must take the Major Field Test (MFT) in Computer Science, but no particular score is required to graduate.
 
 #### Core Computer Science Curriculum:
 - Freshman Year
