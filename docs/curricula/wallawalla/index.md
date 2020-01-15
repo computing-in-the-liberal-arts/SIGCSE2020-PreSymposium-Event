@@ -83,7 +83,7 @@ Each elective is taught once every two years so that all students have at least 
 
 **Minor:** The CS minor is 30 credit hours.  Because of prerequisites, it must include CPTR 141/142: *Fundamentals of Programming I and II*.
 
-**Supported Programs:** The School of Engineering offers a BSE degree with a concentrations in Computer Engineering and Electrical Engineering, among others.  These students take roughly 9 CPTR courses (for computer engineers) or 3 CPTR courses (for electricals) in addition to their engineering courses and cognates.  Together with the School of Business, we offer a joint degree in Information Systems.  IS students take 30 credits of computer science and 48 credits of business.
+**Supported Programs:** The School of Engineering offers a BSE degree with concentrations in Computer Engineering and Electrical Engineering, among others.  These students take roughly 9 CPTR courses (for computer engineers) or 3 CPTR courses (for electricals) in addition to their engineering courses and cognates.  Together with the School of Business, we offer a joint degree in Information Systems.  IS students take 30 credits of computer science and 48 credits of business.
 
 ### Co-curricular program(s)
 
@@ -105,14 +105,14 @@ There are several aspects of Walla Walla University's computer science curriculu
     
 - A focus on career preparedness and service that is spiraled through our curriculum.  Examples include:
     1. Freshmen are introduced to a variety of career paths, required to construct a plan for how they will become *career ready* in the next three years, and required to contribute to an open source project, thereby engaging with a community of developers outside of the university).
-    2. Juniors are required to construct a github repository of their work thus far, investigate and at least pretend to apply for internships, engage in community service in the field of computing, and participate in mock code interviews.
-    3. Seniors must update their github repository and resume and compute a capstone project for a *real world* client.
+    2. Juniors are required to construct a Github repository of their work thus far, investigate and at least pretend to apply for internships, engage in community service in the field of computing, and participate in mock code interviews.
+    3. Seniors must update their Github repository and resume and compute a capstone project for a *real world* client.
 
 ## Limitations/challenges
 
 Our curriculum is quite broad given our staffing levels. This presents several challenges:
-- We rely on assistance from other deparments (mainly Engineering and Mathematics) to ensure that we can cover all of our courses.
+- We rely on assistance from other departments (mainly Engineering and Mathematics) to ensure that we can cover all of our courses.
 - We expect faculty to be able to teach outside of their area of expertise, which increases the prep load substantially.
 - We do not have capacity for a non-majors CS0 course
 
-We would like to grow the number of students further, but have had challenges connecting with students outside of or traditional feeder schools (denominational secondary schools).  While it is important that we stay true to the Christian worldview of the university, we believe that we are well positioned to serve students from outside of our smaller faith community if we can connect with and recruit them.
+We would like to grow the number of students further but have had challenges connecting with students outside of or traditional feeder schools (denominational secondary schools).  While it is important that we stay true to the Christian worldview of the university, we believe that we are well positioned to serve students from outside of our smaller faith community if we can connect with and recruit them.
