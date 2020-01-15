@@ -1,14 +1,14 @@
 # Wide Ranging Student Backgrounds in Introductory Courses
-Contributed by Someone, someone@sample.org
+Contributed by Amanda Holland-Minkley, ahollandminkley@washjeff.edu
 
 ## Institutional and departmental context
-- Institution Name: Sample School
-- Location: Somewhere
-- Student body size: N students, for some value of N
-- Degree(s) offered: ...
-- Department/major name: ...
-- Number of contributing faculty: N FTE
-- Number of majors annually: N majors
+- Institution Name: Washington and Jefferson College
+- Location: Washington, PA USA
+- Student body size: 1400
+- Degree(s) offered: BA Computing and Information Studies
+- Department/major name: Department of Computing and Information Studies
+- Number of contributing faculty: 4 tenure lines
+- Number of majors annually: 10-15
 
 ## Facilitation
 Are you willing to facilitate this discussion? _Yes_
