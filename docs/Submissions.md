@@ -16,6 +16,7 @@ This page contains materials submitted by the participants in a pre-symposium ev
 - [Point Loma Nazarene University](curricula/pointloma/index.md) - Lori Carter
 - [Siena College](curricula/siena/index.md) - Jim Teresco
 - [Swarthmore College](curricula/swarthmore/index.md) - Tia Newhall, Rich Wicentowski, Andrew Danner, Ameet Soni
+- [Walla Walla University](curricula/wallawalla/index.md) - Jonathan Duncan
 - [Whitman College](curricula/whitman/index.md) - Janet Davis
 
 # Challenges, Opportunities and Organizational Direction:
