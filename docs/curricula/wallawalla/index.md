@@ -79,18 +79,40 @@ Each elective is taught once every two years so that all students have at least 
 
 ### Non-major program(s)
 
-Minor: The CS minor is 17 credit hours long and must include the CS1, CS2 and Discrete 1 courses, and at least 6 hours of junior/senior level CS courses.
+**Support Courses:** Several STEM majors require the CPTR 141: *Fundamentals of Programming* course as a cognate.  It must therefore be accessible to those new to programming as well as laying a good foundation for more experienced programmers to go on in the CS curriculum.
 
-Certificates: There are no certificate programs at Benedictine College.
+**Minor:** The CS minor is 30 credit hours.  Because of prerequisites, it must include CPTR 141/142: *Fundamentals of Programming I and II*.
 
-Non-major courses: There is a freshman-level web programming course that requires no programming background, a sophomore-level programming course for scientists and engineers that also requires no programming, and a sophomore-level “short course” (only two credit hours) in a particular programming language (e.g. Python or C) which is sometimes taken by non-majors.
+**Supported Programs:** The School of Engineering offers a BSE degree with a concentration in Computer Engineering.  These students take roughly 9 CPTR courses in addition to their engineering courses and cognates.  Together with the School of Business, we offer a joint degree in Information Systems.  IS students take 30 credits of computer science and 48 credits of business.
 
 ### Co-curricular program(s)
 
+We have a student ACM chapter that is currently focusing on making contributions to an open source project.
+
+Alumni from the nearby Seattle area (it's 5 hours away) organize and coach students through a 1.5 day hackathon every spring.
+
 ## Key contributions
-There are several aspects of Walla Walla University's computer science curriculum of which we are particularly proud.  
-- The first is our two-quarter introductory sequence.  Over the last four years, we have evolved these courses to use standards-based (mastery) grading, a locally-hosted browser-based development environment, and a mixture of POGIL and pairs programming activities that engage new and experience students alike.
-- The second feature worth mentioning is our gradual introduction of modern software development tools starting in the introductory sequence and culminating in the sophomore year with a new course in 
-- 
+
+There are several aspects of Walla Walla University's computer science curriculum of which we are particularly proud.  They include:
+
+- The CPTR 141/142 two-quarter introductory sequence has been the focus of intense development over the last several years.  We have evolved these courses to use [standards-based grading](http://www.ascd.org/publications/educational_leadership/oct08/vol66/num02/Seven_Reasons_for_Standards-Based_Grading.aspx), a locally-hosted browser-based development environment based on the [Theia](https://theia-ide.org/) platform, and a mixture of [POGIL](https://cspogil.org/Home) and pairs programming activities that have been locally developed and/or shamelessly stolen from fellow computer science educators.
+
+- The second feature worth mentioning is our gradual introduction of modern software development tools starting in the introductory sequence and culminating in the sophomore year with a new course in software development.  Examples include:
+    1. Use of git to distribute and turn in assignments in intro course (CPTR 141) via a provided script (no direct git commands)
+    2. Use of git for a group project in second course (CPTR 142), where basic merging is discussed
+    3. Required contribution to an open source project in third course (CPTR 108) on github
+    4. Full introduction to modern tools (git, linting, continuous integration, etc) in fifth course (CPTR 245)
+    
+- A focus on career preparedness and service that is spiraled through our curriculum.  Examples include:
+    1. Freshmen are introduced to a variety of career paths, required to construct a plan for how they will become *career ready* in the next three years, and required to contribute to an open source project (i.e. engage with a community of developers outside of the university).
+    2. Juniors are required to construct a github repository of their work thus far, investigate and at least pretend to apply for internships, engage in community service in the field of computing, and participate in mock code interviews.
+    3. Seniors must update their github repository and resume and compute a capstone project for a *real world* client.
 
 ## Limitations/challenges
+
+Our curriculum is quite broad given our staffing levels. This presents several challenges:
+- We rely on assistance from other deparments (mainly Engineering and Mathematics) to ensure that we can cover all of our courses.
+- We expect faculty to be able to teach outside of their area of expertise, which increases the prep load substantially.
+- We do not have capacity for a non-majors CS0 style course
+
+We would like to grow the number of students further, but have had challenges connecting with students outside of or traditional feeder schools (denominational secondary schools).  While it is important that we stay true to the Christian worldview of the university, we believe that we are well positioned to serve students from outside of our smaller faith community if we can connect with and recruit them.
