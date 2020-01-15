@@ -12,7 +12,7 @@ Contributed by Jonathan Duncan, jonathan.duncan@wallawalla.edu
 - Number of contributing faculty: 2.33 FTE (with additional support from Engineering/Mathematics faculty)
 - Number of majors annually: 15
 
-Walla Walla University is a Seventh-day Adventist institution of higher education founded in 1892.  In the 1940s, the university (then college) became the first college in the denomination to establish a school of engineering.  This began the tradition of offering STEM majors in the context of a liberal arts education, as is the case with the computer science program.
+Walla Walla University is a Seventh-day Adventist institution of higher education founded in 1892.  In the 1940s, the university (then college) became the first institution of higher education in the denomination to establish a school of engineering.  This began the tradition of offering STEM majors in the context of a liberal arts education, as is the case with the computer science program.
 
 The computer science department at Walla Walla University grew out of the physics department in the 1980s.  However, after the program came close to closing in 2008. At that time, we were down to only 6 majors all together and university administration reduced our staffing level to 1.33 FTE. After a period of recovery and reorganization, the department began a period of intense curriculum modernization (which was about 20 years overdue) and started growing again in the early 2010's.  As of Fall 2019, we have reached 50 majors and continue to grow.
 
