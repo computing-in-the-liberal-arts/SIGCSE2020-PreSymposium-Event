@@ -46,28 +46,29 @@ Those presenting curricula have been divided into two groups. Each group will be
 
 The submitted challenges and opportunities have been divided into six thematic groups with each group having two submissions.  One submitter will lead the discussion for the first breakout and the other will lead the discussion for the second breakout.
 
-- #### Managing Growth
-  - A. [Challenges of Growing Fast while Maintaining Community and Collegiality](challenges/growing.md) - Bruce Maxwell
-  - B. [How Can We Limit Enrollments While Preserving Access?](challenges/preserving-access.md) - Bob Geitz
+#### Managing Growth
+- A. [Challenges of Growing Fast while Maintaining Community and Collegiality](challenges/growing.md) - Bruce Maxwell
+- B. [How Can We Limit Enrollments While Preserving Access?](challenges/preserving-access.md) - Bob Geitz
 
-- #### Computing for Non-Majors
-  - A. [Computational Literacy for Non-traditional Students](challenges/computational-literacy.md) - Maria Hwang
-  - B. [What Do We Teach the Non-majors?](challenges/non-majors.md) - John Rager
+#### Computing for Non-Majors
+- A. [Computational Literacy for Non-traditional Students](challenges/computational-literacy.md) - Maria Hwang
+- B. [What Do We Teach the Non-majors?](challenges/non-majors.md) - John Rager
 
-- #### Ethics and Information Literacy
-  - A. [Information/CS Literacy for All Students](challenges/infocsliteracy.md) - Mario Nakazawa
-  - B. [Incorporating Ethics into the Computer Science Curriculum](challenges/ethics.md) - Ameet Soni
+#### Ethics and Information Literacy
+- A. [Information/CS Literacy for All Students](challenges/infocsliteracy.md) - Mario Nakazawa
+- B. [Incorporating Ethics into the Computer Science Curriculum](challenges/ethics.md) - Ameet Soni
 
-- #### Interdisciplinary Programs
-  - A. [Serving Computing _and_ Data Science Needs in a Liberal Arts Setting](challenges/data_science.md) - Karl Schmitt
-  - B. [STEM Scholars Program for Recruitment and Retention](challenges/cpams.md) - Megan Olsen
+#### Interdisciplinary Programs
+- A. [Serving Computing _and_ Data Science Needs in a Liberal Arts Setting](challenges/data_science.md) - Karl Schmitt
+- B. [STEM Scholars Program for Recruitment and Retention](challenges/cpams.md) - Megan Olsen
 
-- #### Interdisciplinary Collaborations
-  - A. [Oh, you’re a computer scientist! I have this great idea… Let’s collaborate!](challenges/collaborate.md) - Andrea Danyluk
-  - B. [Leverage Digital Humanities to Foster Collaboration between Computer Science and Other Liberal Arts Disciplines](challenges/digital_humanities.md) - Robert R. Kelley  
+#### Interdisciplinary Collaborations
+- A. [Oh, you’re a computer scientist! I have this great idea… Let’s collaborate!](challenges/collaborate.md) - Andrea Danyluk
+- B. [Leverage Digital Humanities to Foster Collaboration between Computer Science and Other Liberal Arts Disciplines](challenges/digital_humanities.md) - Robert R. Kelley  
 
-- #### Recruiting for Teacher Certification
-  - A. [Recruiting Students BA vs BS and K12 Teacher Certification](challenges/recruiting.md) - Mike Zamansky
-  - B. [Recruiting Students into CS Teaching Certification Programs](challenges/recruiting2.md) - Jim Matthews and Robin Flatland
+#### Recruiting for Teacher Certification
+- A. [Recruiting Students BA vs BS and K12 Teacher Certification](challenges/recruiting.md) - Mike Zamansky
+- B. [Recruiting Students into CS Teaching Certification Programs](challenges/recruiting2.md) - Jim Matthews and Robin Flatland
+
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") Unless otherwise noted on an individual resource, all materials in this repository are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
