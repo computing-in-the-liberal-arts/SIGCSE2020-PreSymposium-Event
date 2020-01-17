@@ -7,6 +7,7 @@ This page contains materials submitted by the participants in a pre-symposium ev
 - [Bard College](curricula/bard/index.md) - Keith O'Hara
 - [Benedictine College](curricula/benedictine/index.md) - Donald J. Bagert
 - [Bethell University](curricula/bethell/index.md) - Cathy Bareiss
+- [Creighton University](curricula/creighton/index.md) - David Reed
 - [Denison University](curricula/denison/index.md) - Jessen Havill
 - [Dickinson College](curricula/dickinson/index.md) - Grant Braught
 - [Fresno Pacific University](curricula/fresno_pacific/index.md) - Simon Sultana and Whitney Bortz
