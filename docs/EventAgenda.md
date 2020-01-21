@@ -34,7 +34,7 @@ Those presenting curricula have been divided into two groups. Each group will be
 
 #### Group B
 
-- [Bard College](curricula/bard/index.md) - Keith O'Hara
+- Linking Language and Thinking with Code - [Bard College](curricula/bard/index.md) - Keith O'Hara
 - [Bethell University](curricula/bethell/index.md) - Cathy Bareiss
 - [Denison University](curricula/denison/index.md) - Jessen Havill
 - [Fulbright University Vietnam](curricula/fulbright_vietnam/index.md) - Sebastian Dziallas
