@@ -59,7 +59,7 @@ The submitted challenges and opportunities have been divided into six thematic g
 - B. [Incorporating Ethics into the Computer Science Curriculum](challenges/ethics.md) - Ameet Soni
 
 #### Interdisciplinary Programs
-- A. [Serving Computing _and_ Data Science Needs in a Liberal Arts Setting](challenges/data_science.md) - Karl Schmitt
+- A. [Serving Computing _and_ Data Science Needs in a Liberal Arts Setting](challenges/data_science.md) - Karl Schmitt, facilitated by Jessen Havill
 - B. [STEM Scholars Program for Recruitment and Retention](challenges/cpams.md) - Megan Olsen
 
 #### Interdisciplinary Collaborations
