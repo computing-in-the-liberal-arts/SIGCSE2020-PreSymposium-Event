@@ -63,8 +63,8 @@ The submitted challenges and opportunities have been divided into six thematic g
 - B. [STEM Scholars Program for Recruitment and Retention](challenges/cpams.md) - Megan Olsen
 
 #### Interdisciplinary Collaborations
-- A. [Oh, you’re a computer scientist! I have this great idea… Let’s collaborate!](challenges/collaborate.md) - Andrea Danyluk
-- B. [Leverage Digital Humanities to Foster Collaboration between Computer Science and Other Liberal Arts Disciplines](challenges/digital_humanities.md) - Robert R. Kelley  
+- A. [Leverage Digital Humanities to Foster Collaboration between Computer Science and Other Liberal Arts Disciplines](challenges/digital_humanities.md) - Robert R. Kelley  
+- B. [Oh, you’re a computer scientist! I have this great idea… Let’s collaborate!](challenges/collaborate.md) - Andrea Danyluk, facilitated by Doug Baldwin
 
 #### Recruiting for Teacher Certification
 - A. [Recruiting Students BA vs BS and K12 Teacher Certification](challenges/recruiting.md) - Mike Zamansky
