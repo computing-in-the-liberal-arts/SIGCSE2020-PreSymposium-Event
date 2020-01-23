@@ -15,8 +15,8 @@ A pre-symposium event at [SIGCSE 2020](https://sigcse2020.sigcse.org) organized 
 | 3:30-3:50 | [Challenges and Opportunities Breakout A](#challenges-and-opportunities-discussion)
 | 3:50-4:10 | [Challenges and Opportunities Breakout B](#challenges-and-opportunities-discussion)
 | 4:10-4:30 | Full Group Report Out and Identification of Emergent Themes
-| 4:30-5:00 | Optional Business meeting.
-| Evening   | Optional dinner groups.
+| 4:30-5:00 | Optional [Business meeting](#business-meeting)
+| Evening   | Optional dinner groups
 
 ### Curriculum (Un)Poster Session
 
@@ -69,6 +69,26 @@ The submitted challenges and opportunities have been divided into six thematic g
 #### Recruiting for Teacher Certification
 - A. [Recruiting Students BA vs BS and K12 Teacher Certification](challenges/recruiting.md) - Mike Zamansky
 - B. [Recruiting Students into CS Teaching Certification Programs](challenges/recruiting2.md) - Jim Matthews and Robin Flatland
+
+
+## Business meeting
+
+The focus of our business meeting is planning next steps for the Committee on Computing Education in the Liberal Arts. Discussion will focus on the following topics. Where the Committee has previously solicited input on these topics, that information is provided as a starting point for discussion and we hope that we will also generate new ideas during this meeting.
+
+1. SIGCSE 2021 Pre-Symposium Event
+    - Topics or Themes: What should be the focus of next year's pre-symposium event?
+    - Reflections on the Pre-Symposium Format: What worked well and what might be improved?
+
+2. Additional Committee Projects
+    - Topics or Venues for Additional Workshops/Symposia
+    - Opportunities for Virtual Meetings/Gatherings
+    - Information and Resource Gathering Projects
+    - Outreach Projects: Making Liberal Arts Computing More Visible
+
+3. Defining the Committee Structure
+   - Models for a Permanent Organization
+   - Fundraising for Committee Activities
+   - Identifying Project Leaders
 
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") Unless otherwise noted on an individual resource, all materials in this repository are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
