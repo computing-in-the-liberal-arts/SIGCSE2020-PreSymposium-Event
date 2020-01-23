@@ -75,6 +75,8 @@ The submitted challenges and opportunities have been divided into six thematic g
 
 The focus of our business meeting is planning next steps for the Committee on Computing Education in the Liberal Arts. Discussion will focus on the following topics. Where the Committee has previously solicited input on these topics, that information is provided as a starting point for discussion and we hope that we will also generate new ideas during this meeting.
 
+The business meeting will be facilitated by Amanda Holland-Minkley, ahollandminkley@washjeff.edu. You may contact Amanda before or after the meeting with ideas to discuss or areas in which you would like to contribute.
+
 1. SIGCSE 2021 Pre-Symposium Event
     - Topics or Themes: What should be the focus of next year's pre-symposium event?
     - Reflections on the Pre-Symposium Format: What worked well and what might be improved?
