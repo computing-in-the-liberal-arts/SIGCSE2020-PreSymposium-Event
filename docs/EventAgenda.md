@@ -28,7 +28,7 @@ Those presenting curricula have been divided into two groups. Each group will be
 - [Benedictine College](curricula/benedictine/index.md) - Donald J. Bagert
 - [Creighton University](curricula/creighton/index.md) - David Reed
 - [Fresno Pacific University](curricula/fresno_pacific/index.md) - Simon Sultana and Whitney Bortz - Designing Curriculum to Meet Varied Community Needs with Limited Resources
-- [Furman University](curricula/furman/index.md) - Andrea Tartaro, Chris Healy and Chris Alvin
+- [Furman University](curricula/furman/index.md) - Andrea Tartaro, Chris Healy and Chris Alvin - Computer Science in General Education and an Applied Major
 - [Point Loma Nazarene University](curricula/pointloma/index.md) - Lori Carter - A Computational Science Minor that Works Across Multiple Disciplines
 - [Swarthmore College](curricula/swarthmore/index.md) - Tia Newhall, Rich Wicentowski, Andrew Danner, Ameet Soni
 
