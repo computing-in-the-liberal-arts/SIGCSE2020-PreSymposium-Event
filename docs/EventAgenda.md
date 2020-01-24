@@ -40,7 +40,7 @@ Those presenting curricula have been divided into two groups. Each group will be
 - [Fulbright University Vietnam](curricula/fulbright_vietnam/index.md) - Sebastian Dziallas
 - [Loyola University Maryland](curricula/loyolamd/index.md) - Megan Olsen - Designing Curriculum with Multiple Majors to Provide Student Flexibility for Studying Abroad and a Large Humanities Core
 - [Siena College](curricula/siena/index.md) - Jim Teresco
-- [Walla Walla University](curricula/wallawalla/index.md) - Jonathan Duncan
+- [Walla Walla University](curricula/wallawalla/index.md) - Jonathan Duncan - Removing Barriers to Student Success in the Introductory Sequence
 
 ### Challenges and Opportunities Discussion
 
