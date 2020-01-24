@@ -38,7 +38,7 @@ Those presenting curricula have been divided into two groups. Each group will be
 - [Bethell University](curricula/bethell/index.md) - Cathy Bareiss - A CS program covering bleeding edge fields while developing quality life long learners
 - [Denison University](curricula/denison/index.md) - Jessen Havill
 - [Fulbright University Vietnam](curricula/fulbright_vietnam/index.md) - Sebastian Dziallas
-- [Loyola University Maryland](curricula/loyolamd/index.md) - Megan Olsen
+- [Loyola University Maryland](curricula/loyolamd/index.md) - Megan Olsen - Designing Curriculum with Multiple Majors to Provide Student Flexibility for Studying Abroad and a Large Humanities Core
 - [Siena College](curricula/siena/index.md) - Jim Teresco
 - [Walla Walla University](curricula/wallawalla/index.md) - Jonathan Duncan
 
