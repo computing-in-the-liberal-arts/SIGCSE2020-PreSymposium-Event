@@ -39,7 +39,7 @@ Those presenting curricula have been divided into two groups. Each group will be
 - [Denison University](curricula/denison/index.md) - Jessen Havill - Broadening horizons to broaden participation: from problem-oriented intro courses to a new Data Analytics major
 - [Fulbright University Vietnam](curricula/fulbright_vietnam/index.md) - Sebastian Dziallas - Building the Airplane While Flying It: Co-Designing a Curriculum With Students at a New Institution
 - [Loyola University Maryland](curricula/loyolamd/index.md) - Megan Olsen - Designing Curriculum with Multiple Majors to Provide Student Flexibility for Studying Abroad and a Large Humanities Core
-- [Siena College](curricula/siena/index.md) - Jim Teresco
+- [Siena College](curricula/siena/index.md) - Jim Teresco - Lessons learned from adding a new Software Development major
 - [Walla Walla University](curricula/wallawalla/index.md) - Jonathan Duncan - Removing Barriers to Student Success in the Introductory Sequence
 
 ### Challenges and Opportunities Discussion
