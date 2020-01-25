@@ -24,7 +24,7 @@ Those presenting curricula have been divided into two groups. Each group will be
 
 #### Group A
 
-- [Auburn University](curricula/AuburnUniversity/index.md) - Daniela Marghitu, Nancy Barry, Fatemeh Jamshidi
+- [Auburn University](curricula/AuburnUniversity/index.md) - Daniela Marghitu, Nancy Barry, Fatemeh Jamshidi - How to Connect Music Education with Computer Science and Engineering Education
 - [Benedictine College](curricula/benedictine/index.md) - Donald J. Bagert
 - [Creighton University](curricula/creighton/index.md) - David Reed - The Benefits of Partnering in a Multi-program, Information-centered Department
 - [Fresno Pacific University](curricula/fresno_pacific/index.md) - Simon Sultana and Whitney Bortz - Designing Curriculum to Meet Varied Community Needs with Limited Resources
