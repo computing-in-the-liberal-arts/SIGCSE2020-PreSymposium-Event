@@ -24,7 +24,7 @@ Those presenting curricula have been divided into two groups. Each group will be
 
 #### Group A
 
-- [Auburn University](curricula/AuburnUniversity/index.md) - Daniela Marghitu, Nancy Barry, Fatemeh Jamshidi - How to Connect Music Education with Computer Science and Engineering Education
+- *[Auburn University](curricula/AuburnUniversity/index.md) - Daniela Marghitu, Nancy Barry, Fatemeh Jamshidi - How to Connect Music Education with Computer Science and Engineering Education
 - [Benedictine College](curricula/benedictine/index.md) - Donald J. Bagert - Having It Both Ways: The Benefits of Adding a Second Bachelor’s Degree in CS
 - *[Creighton University](curricula/creighton/index.md) - David Reed - The Benefits of Partnering in a Multi-program, Information-centered Department
 - [Fresno Pacific University](curricula/fresno_pacific/index.md) - Simon Sultana and Whitney Bortz - Designing Curriculum to Meet Varied Community Needs with Limited Resources
@@ -36,7 +36,7 @@ Those presenting curricula have been divided into two groups. Each group will be
 
 - *[Bard College](curricula/bard/index.md) - Keith O'Hara - Linking Language and Thinking with Code
 - [Bethell University](curricula/bethell/index.md) - Cathy Bareiss - A CS program covering bleeding edge fields while developing quality life long learners
-- [Denison University](curricula/denison/index.md) - Jessen Havill - Broadening horizons to broaden participation: from problem-oriented intro courses to a new Data Analytics major
+- *[Denison University](curricula/denison/index.md) - Jessen Havill - Broadening horizons to broaden participation: from problem-oriented intro courses to a new Data Analytics major
 - *[Fulbright University Vietnam](curricula/fulbright_vietnam/index.md) - Sebastian Dziallas - Building the Airplane While Flying It: Co-Designing a Curriculum With Students at a New Institution
 - *[Loyola University Maryland](curricula/loyolamd/index.md) - Megan Olsen - Designing Curriculum with Multiple Majors to Provide Student Flexibility for Studying Abroad and a Large Humanities Core
 - [Siena College](curricula/siena/index.md) - Jim Teresco - Lessons learned from adding a new Software Development major
@@ -59,7 +59,7 @@ The submitted challenges and opportunities have been divided into six thematic g
 - B. *[Incorporating Ethics into the Computer Science Curriculum](challenges/ethics.md) - Ameet Soni
 
 #### Interdisciplinary Programs
-- A. [Serving Computing _and_ Data Science Needs in a Liberal Arts Setting](challenges/data_science.md) - Karl Schmitt, facilitated by Jessen Havill
+- A. *[Serving Computing _and_ Data Science Needs in a Liberal Arts Setting](challenges/data_science.md) - Karl Schmitt, facilitated by Jessen Havill
 - B. *[STEM Scholars Program for Recruitment and Retention](challenges/cpams.md) - Megan Olsen
 
 #### Interdisciplinary Collaborations
