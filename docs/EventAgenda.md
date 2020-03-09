@@ -38,7 +38,7 @@ Those presenting curricula have been divided into two groups. Each group will be
 - *[Auburn University](curricula/AuburnUniversity/index.md) - Daniela Marghitu, Nancy Barry, Fatemeh Jamshidi - How to Connect Music Education with Computer Science and Engineering Education
 - *[Bethell University](curricula/bethell/index.md) - Cathy Bareiss - A CS program covering bleeding edge fields while developing quality life long learners
 - *[Creighton University](curricula/creighton/index.md) - David Reed - The Benefits of Partnering in a Multi-program, Information-centered Department
-- [Furman University](curricula/furman/index.md) - Andrea Tartaro, Chris Healy and Chris Alvin - Computer Science in General Education and an Applied Major
+- *[Furman University](curricula/furman/index.md) - Andrea Tartaro, Chris Healy and Chris Alvin - Computer Science in General Education and an Applied Major
 - *[Fulbright University Vietnam](curricula/fulbright_vietnam/index.md) - Sebastian Dziallas - Building the Airplane While Flying It: Co-Designing a Curriculum With Students at a New Institution
 - [Siena College](curricula/siena/index.md) - Jim Teresco - Lessons learned from adding a new Software Development major
 - *[Swarthmore College](curricula/swarthmore/index.md) - Tia Newhall, Rich Wicentowski, Andrew Danner, Ameet Soni - Balancing curricular goals of breadth, depth, and broadening participation under the enrollment crisis
