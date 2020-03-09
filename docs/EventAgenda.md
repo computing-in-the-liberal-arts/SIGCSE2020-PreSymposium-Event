@@ -26,19 +26,19 @@ Those presenting curricula have been divided into two groups. Each group will be
 
 - [Auburn University](curricula/AuburnUniversity/index.md) - Daniela Marghitu, Nancy Barry, Fatemeh Jamshidi - How to Connect Music Education with Computer Science and Engineering Education
 - [Benedictine College](curricula/benedictine/index.md) - Donald J. Bagert - Having It Both Ways: The Benefits of Adding a Second Bachelor’s Degree in CS
-- [Creighton University](curricula/creighton/index.md) - David Reed - The Benefits of Partnering in a Multi-program, Information-centered Department
+- *[Creighton University](curricula/creighton/index.md) - David Reed - The Benefits of Partnering in a Multi-program, Information-centered Department
 - [Fresno Pacific University](curricula/fresno_pacific/index.md) - Simon Sultana and Whitney Bortz - Designing Curriculum to Meet Varied Community Needs with Limited Resources
 - [Furman University](curricula/furman/index.md) - Andrea Tartaro, Chris Healy and Chris Alvin - Computer Science in General Education and an Applied Major
 - [Point Loma Nazarene University](curricula/pointloma/index.md) - Lori Carter - A Computational Science Minor that Works Across Multiple Disciplines
-- [Swarthmore College](curricula/swarthmore/index.md) - Tia Newhall, Rich Wicentowski, Andrew Danner, Ameet Soni - Balancing curricular goals of breadth, depth, and broadening participation under the enrollment crisis
+- *[Swarthmore College](curricula/swarthmore/index.md) - Tia Newhall, Rich Wicentowski, Andrew Danner, Ameet Soni - Balancing curricular goals of breadth, depth, and broadening participation under the enrollment crisis
 
 #### Group B
 
-- [Bard College](curricula/bard/index.md) - Keith O'Hara - Linking Language and Thinking with Code
+- *[Bard College](curricula/bard/index.md) - Keith O'Hara - Linking Language and Thinking with Code
 - [Bethell University](curricula/bethell/index.md) - Cathy Bareiss - A CS program covering bleeding edge fields while developing quality life long learners
 - [Denison University](curricula/denison/index.md) - Jessen Havill - Broadening horizons to broaden participation: from problem-oriented intro courses to a new Data Analytics major
-- [Fulbright University Vietnam](curricula/fulbright_vietnam/index.md) - Sebastian Dziallas - Building the Airplane While Flying It: Co-Designing a Curriculum With Students at a New Institution
-- [Loyola University Maryland](curricula/loyolamd/index.md) - Megan Olsen - Designing Curriculum with Multiple Majors to Provide Student Flexibility for Studying Abroad and a Large Humanities Core
+- *[Fulbright University Vietnam](curricula/fulbright_vietnam/index.md) - Sebastian Dziallas - Building the Airplane While Flying It: Co-Designing a Curriculum With Students at a New Institution
+- *[Loyola University Maryland](curricula/loyolamd/index.md) - Megan Olsen - Designing Curriculum with Multiple Majors to Provide Student Flexibility for Studying Abroad and a Large Humanities Core
 - [Siena College](curricula/siena/index.md) - Jim Teresco - Lessons learned from adding a new Software Development major
 - [Walla Walla University](curricula/wallawalla/index.md) - Jonathan Duncan - Removing Barriers to Student Success in the Introductory Sequence
 
@@ -48,28 +48,29 @@ The submitted challenges and opportunities have been divided into six thematic g
 
 #### Managing Growth
 - A. [Challenges of Growing Fast while Maintaining Community and Collegiality](challenges/growing.md) - Bruce Maxwell
-- B. [How Can We Limit Enrollments While Preserving Access?](challenges/preserving-access.md) - Bob Geitz
+- B. *[How Can We Limit Enrollments While Preserving Access?](challenges/preserving-access.md) - Bob Geitz
 
 #### Computing for Non-Majors
 - A. [Computational Literacy for Non-traditional Students](challenges/computational-literacy.md) - Maria Hwang
-- B. [What Do We Teach the Non-majors?](challenges/non-majors.md) - John Rager
+- B. *[What Do We Teach the Non-majors?](challenges/non-majors.md) - John Rager
 
 #### Ethics and Information Literacy
 - A. [Information/CS Literacy for All Students](challenges/infocsliteracy.md) - Mario Nakazawa
-- B. [Incorporating Ethics into the Computer Science Curriculum](challenges/ethics.md) - Ameet Soni
+- B. *[Incorporating Ethics into the Computer Science Curriculum](challenges/ethics.md) - Ameet Soni
 
 #### Interdisciplinary Programs
 - A. [Serving Computing _and_ Data Science Needs in a Liberal Arts Setting](challenges/data_science.md) - Karl Schmitt, facilitated by Jessen Havill
-- B. [STEM Scholars Program for Recruitment and Retention](challenges/cpams.md) - Megan Olsen
+- B. *[STEM Scholars Program for Recruitment and Retention](challenges/cpams.md) - Megan Olsen
 
 #### Interdisciplinary Collaborations
-- A. [Leverage Digital Humanities to Foster Collaboration between Computer Science and Other Liberal Arts Disciplines](challenges/digital_humanities.md) - Robert R. Kelley  
-- B. [Oh, you’re a computer scientist! I have this great idea… Let’s collaborate!](challenges/collaborate.md) - Andrea Danyluk, facilitated by Doug Baldwin and Henry Walker
+- A. *[Leverage Digital Humanities to Foster Collaboration between Computer Science and Other Liberal Arts Disciplines](challenges/digital_humanities.md) - Robert R. Kelley  
+- B. [Oh, you’re a computer scientist! I have this great idea… Let’s collaborate!](challenges/collaborate.md) - Andrea Danyluk, facilitated by Doug Baldwin
 
 #### Recruiting for Teacher Certification
 - A. [Recruiting Students BA vs BS and K12 Teacher Certification](challenges/recruiting.md) - Mike Zamansky
 - B. [Recruiting Students into CS Teaching Certification Programs](challenges/recruiting2.md) - Jim Matthews and Robin Flatland
 
+* Presenters not in attendance
 
 ## Business meeting
 
