@@ -22,33 +22,32 @@ A pre-symposium event at [SIGCSE 2020](https://sigcse2020.sigcse.org) organized 
 
 Those presenting curricula have been divided into two groups. Each group will be available for small group discussion of their curricula.  If desired, presenters may use laptops, small posters (2'x3' maximum), handouts, flyers, or other media of their choice. Presenters will have available a round table for 8 or a flat wall surface.
 
-**UPDATE:** A star (\*) indicates presenters who will not be in attandance. We may combine the A and B sessions depending on how many presenters and others are present.
+**UPDATE:** A star (\*) indicates presenters who will not be in attendance. We may combine the A and B sessions depending on how many presenters and others are present.
 
 #### Group A
 
-- *[Auburn University](curricula/AuburnUniversity/index.md) - Daniela Marghitu, Nancy Barry, Fatemeh Jamshidi - How to Connect Music Education with Computer Science and Engineering Education
 - [Benedictine College](curricula/benedictine/index.md) - Donald J. Bagert - Having It Both Ways: The Benefits of Adding a Second Bachelor’s Degree in CS
-- *[Creighton University](curricula/creighton/index.md) - David Reed - The Benefits of Partnering in a Multi-program, Information-centered Department
+- *[Bard College](curricula/bard/index.md) - Keith O'Hara - Linking Language and Thinking with Code
 - [Fresno Pacific University](curricula/fresno_pacific/index.md) - Simon Sultana and Whitney Bortz - Designing Curriculum to Meet Varied Community Needs with Limited Resources
-- [Furman University](curricula/furman/index.md) - Andrea Tartaro, Chris Healy and Chris Alvin - Computer Science in General Education and an Applied Major
+- *[Denison University](curricula/denison/index.md) - Jessen Havill - Broadening horizons to broaden participation: from problem-oriented intro courses to a new Data Analytics major
 - [Point Loma Nazarene University](curricula/pointloma/index.md) - Lori Carter - A Computational Science Minor that Works Across Multiple Disciplines
-- *[Swarthmore College](curricula/swarthmore/index.md) - Tia Newhall, Rich Wicentowski, Andrew Danner, Ameet Soni - Balancing curricular goals of breadth, depth, and broadening participation under the enrollment crisis
+- *[Loyola University Maryland](curricula/loyolamd/index.md) - Megan Olsen - Designing Curriculum with Multiple Majors to Provide Student Flexibility for Studying Abroad and a Large Humanities Core
+- [Walla Walla University](curricula/wallawalla/index.md) - Jonathan Duncan - Removing Barriers to Student Success in the Introductory Sequence
 
 #### Group B
-
-- *[Bard College](curricula/bard/index.md) - Keith O'Hara - Linking Language and Thinking with Code
+- *[Auburn University](curricula/AuburnUniversity/index.md) - Daniela Marghitu, Nancy Barry, Fatemeh Jamshidi - How to Connect Music Education with Computer Science and Engineering Education
 - [Bethell University](curricula/bethell/index.md) - Cathy Bareiss - A CS program covering bleeding edge fields while developing quality life long learners
-- *[Denison University](curricula/denison/index.md) - Jessen Havill - Broadening horizons to broaden participation: from problem-oriented intro courses to a new Data Analytics major
+- *[Creighton University](curricula/creighton/index.md) - David Reed - The Benefits of Partnering in a Multi-program, Information-centered Department
+- [Furman University](curricula/furman/index.md) - Andrea Tartaro, Chris Healy and Chris Alvin - Computer Science in General Education and an Applied Major
 - *[Fulbright University Vietnam](curricula/fulbright_vietnam/index.md) - Sebastian Dziallas - Building the Airplane While Flying It: Co-Designing a Curriculum With Students at a New Institution
-- *[Loyola University Maryland](curricula/loyolamd/index.md) - Megan Olsen - Designing Curriculum with Multiple Majors to Provide Student Flexibility for Studying Abroad and a Large Humanities Core
 - [Siena College](curricula/siena/index.md) - Jim Teresco - Lessons learned from adding a new Software Development major
-- [Walla Walla University](curricula/wallawalla/index.md) - Jonathan Duncan - Removing Barriers to Student Success in the Introductory Sequence
+- *[Swarthmore College](curricula/swarthmore/index.md) - Tia Newhall, Rich Wicentowski, Andrew Danner, Ameet Soni - Balancing curricular goals of breadth, depth, and broadening participation under the enrollment crisis
 
 ### Challenges and Opportunities Discussion
 
 The submitted challenges and opportunities have been divided into six thematic groups with each group having two submissions.  One submitter will lead the discussion for the first breakout and the other will lead the discussion for the second breakout.
 
-**UPDATE:** A star (\*) indicates presenters who will not be in attandance. We will seek alternate discussion leaders, combining the topics A & B at some tables.
+**UPDATE:** A star (\*) indicates presenters who will not be in attendance. We will seek alternate discussion leaders, combining the topics A & B at some tables.
 
 #### Managing Growth
 - A. [Challenges of Growing Fast while Maintaining Community and Collegiality](challenges/growing.md) - Bruce Maxwell
