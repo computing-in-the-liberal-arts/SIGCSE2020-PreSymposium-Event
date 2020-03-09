@@ -22,6 +22,8 @@ A pre-symposium event at [SIGCSE 2020](https://sigcse2020.sigcse.org) organized 
 
 Those presenting curricula have been divided into two groups. Each group will be available for small group discussion of their curricula.  If desired, presenters may use laptops, small posters (2'x3' maximum), handouts, flyers, or other media of their choice. Presenters will have available a round table for 8 or a flat wall surface.
 
+**UPDATE:** A star (\*) indicates presenters who will not be in attandance. We may combine the A and B sessions depending on how many presenters and others are present.
+
 #### Group A
 
 - *[Auburn University](curricula/AuburnUniversity/index.md) - Daniela Marghitu, Nancy Barry, Fatemeh Jamshidi - How to Connect Music Education with Computer Science and Engineering Education
@@ -46,6 +48,8 @@ Those presenting curricula have been divided into two groups. Each group will be
 
 The submitted challenges and opportunities have been divided into six thematic groups with each group having two submissions.  One submitter will lead the discussion for the first breakout and the other will lead the discussion for the second breakout.
 
+**UPDATE:** A star (\*) indicates presenters who will not be in attandance. We will seek alternate discussion leaders, combining the topics A & B at some tables.
+
 #### Managing Growth
 - A. [Challenges of Growing Fast while Maintaining Community and Collegiality](challenges/growing.md) - Bruce Maxwell
 - B. *[How Can We Limit Enrollments While Preserving Access?](challenges/preserving-access.md) - Bob Geitz
@@ -69,8 +73,6 @@ The submitted challenges and opportunities have been divided into six thematic g
 #### Recruiting for Teacher Certification
 - A. [Recruiting Students BA vs BS and K12 Teacher Certification](challenges/recruiting.md) - Mike Zamansky
 - B. [Recruiting Students into CS Teaching Certification Programs](challenges/recruiting2.md) - Jim Matthews and Robin Flatland
-
-* Presenters not in attendance
 
 ## Business meeting
 
