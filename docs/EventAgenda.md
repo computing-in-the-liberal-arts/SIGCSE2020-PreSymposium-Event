@@ -30,7 +30,7 @@ Those presenting curricula have been divided into two groups. Each group will be
 - *[Bard College](curricula/bard/index.md) - Keith O'Hara - Linking Language and Thinking with Code
 - [Fresno Pacific University](curricula/fresno_pacific/index.md) - Simon Sultana and Whitney Bortz - Designing Curriculum to Meet Varied Community Needs with Limited Resources
 - *[Denison University](curricula/denison/index.md) - Jessen Havill - Broadening horizons to broaden participation: from problem-oriented intro courses to a new Data Analytics major
-- [Point Loma Nazarene University](curricula/pointloma/index.md) - Lori Carter - A Computational Science Minor that Works Across Multiple Disciplines
+- *[Point Loma Nazarene University](curricula/pointloma/index.md) - Lori Carter - A Computational Science Minor that Works Across Multiple Disciplines
 - *[Loyola University Maryland](curricula/loyolamd/index.md) - Megan Olsen - Designing Curriculum with Multiple Majors to Provide Student Flexibility for Studying Abroad and a Large Humanities Core
 - [Walla Walla University](curricula/wallawalla/index.md) - Jonathan Duncan - Removing Barriers to Student Success in the Introductory Sequence
 
