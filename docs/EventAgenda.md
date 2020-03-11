@@ -58,7 +58,7 @@ The submitted challenges and opportunities have been divided into six thematic g
 - B. *[What Do We Teach the Non-majors?](challenges/non-majors.md) - John Rager
 
 #### Ethics and Information Literacy
-- A. [Information/CS Literacy for All Students](challenges/infocsliteracy.md) - Mario Nakazawa
+- A. *[Information/CS Literacy for All Students](challenges/infocsliteracy.md) - Mario Nakazawa
 - B. *[Incorporating Ethics into the Computer Science Curriculum](challenges/ethics.md) - Ameet Soni
 
 #### Interdisciplinary Programs
