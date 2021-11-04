@@ -1,4 +1,4 @@
-# Liberal Arts Computing Curricula: Innovations, Challenges, and Opportunities
+# Liberal Arts Computing Curricula:<br>Innovations, Challenges, and Opportunities
 
 Organized by members of the SIGCSE Committee on Computing Education in Liberal Arts Colleges, this pre-Symposium event will let us share and learn about curricular innovations, challenges, and opportunities particular to our liberal arts settings.
 
