@@ -36,3 +36,6 @@ This page contains materials submitted by the participants in a pre-symposium ev
 - [STEM Scholars Program for Recruitment and Retention](challenges/cpams.md) - Megan Olsen
 - [What Do We Teach the Non-majors?](challenges/non-majors.md) - John Rager
 - [Wide Ranging Student Backgrounds in Introductory Courses](challenges/backgrounds.md) - Amanda Holland-Minkley
+
+___
+![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") Unless otherwise noted on an individual resource, all materials in this repository are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
