@@ -2,7 +2,7 @@
 
 This page contains materials submitted by the participants in a pre-symposium event at [SIGCSE 2020](https://sigcse2020.sigcse.org) organized by members of the SIGCSE Committee on Computing Education in Liberal Arts Colleges. Participants in the event shared and learned about curricular innovations, challenges, and opportunities particular to our liberal arts settings.
 
-# Innovative Curricular Models for Computing Education in the Liberal Arts:
+## Innovative Curricular Models for Computing Education in the Liberal Arts:
 - [Auburn University](curricula/AuburnUniversity/index.md) - Daniela Marghitu, Nancy Barry, Fatemeh Jamshidi
 - [Bard College](curricula/bard/index.md) - Keith O'Hara
 - [Benedictine College](curricula/benedictine/index.md) - Donald J. Bagert
@@ -20,7 +20,7 @@ This page contains materials submitted by the participants in a pre-symposium ev
 - [Walla Walla University](curricula/wallawalla/index.md) - Jonathan Duncan
 - [Whitman College](curricula/whitman/index.md) - Janet Davis
 
-# Challenges, Opportunities and Organizational Direction:
+## Challenges, Opportunities and Organizational Direction:
 - [Challenges of Growing Fast while Maintaining Community and Collegiality](challenges/growing.md) - Bruce Maxwell
 - [Computational Literacy for Non-traditional Students](challenges/computational-literacy.md) - Maria Hwang
 - [Engaging Students in Integrated Studies of Issues with Social/Ethical/Technical Dimensions](challenges/integratedstudy.md) - Henry M. Walker
